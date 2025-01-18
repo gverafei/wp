@@ -1,5 +1,6 @@
 ---
 title: Inicio
+layout: page
 ---
 
 ### 20, 22 y 24 de enero 2025
