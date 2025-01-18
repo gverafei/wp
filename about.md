@@ -1,6 +1,7 @@
 ---
-title: Inicio
+title: Acerca de
 layout: page
+permalink: about
 ---
 
 ### 20, 22 y 24 de enero 2025
@@ -18,9 +19,4 @@ Este taller está dirigido a personas interesadas en el desarrollo de aplicacion
 - Conocimientos básicos de uso de una computadora e Internet.
 - Acceso a Internet.
 - Navegador web.
-
-A continuación se presentan los recursos básicos que se estarán revisando en el taller.
-
-- [Introducción](intro)
-- [Agregar nueva entrada](agrega-post)
 
