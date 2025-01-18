@@ -1,4 +1,4 @@
-# XI Foro de Divulgración Científica de la Ciencias de la Computación 2024
+## XI Foro de Divulgración Científica de la Ciencias de la Computación 2024
 
 ### 11 y 12 de nombiembre 2024
 
