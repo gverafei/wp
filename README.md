@@ -1,4 +1,5 @@
 ---
+layout: page
 title: XI Foro de Divulgración Científica de la Ciencias de la Computación 2024
 ---
 
