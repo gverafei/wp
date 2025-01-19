@@ -3,48 +3,46 @@ title: Inicio
 layout: page
 ---
 
-# Organización de las sesiones
-
-A continuación se presentan los recursos básicos que se estarán revisando en el curso-taller.
-
 ## Día 1: Introducción y primeros pasos
-**Objetivo:** Familiarizarse con WordPress, explorar el sitio actual y aprender las bases para comenzar a trabajar en la plataforma.
+**Objetivo:** Familiarizarse con WordPress, explorar el sitio actual y aprender las bases para trabajar en la plataforma, incluyendo navegación accesible, configuración básica y creación de páginas.
 
 - [¿Qué es WordPress y para qué sirve?](./que-es-wordpress.md)
 - [Popularidad y estadísticas de WordPress](./popularidad-estadisticas.md)
 - [Beneficios de usar WordPress para sitios web accesibles](./beneficios-wordpress-accesibles.md)
 - [Conociendo los elementos del sitio "Amor sin fronteras"](./conociendo-sitio.md)
 - [Acceso al área de administración de WordPress](./acceso-administracion.md)
-- [Cómo navegar en WordPress usando NVDA o JAWS](./navegacion-teclado.md)
-- [Introducción al editor clásico TinyMCE](./editor-tinymce.md)
+- [Cómo navegar en WordPress usando el teclado](./navegar-wordpress.md)
+- [Ajustes básicos del sitio web](./ajustes-basicos.md)
+- [Shortcuts del editor clásico TinyMCE](./shortcuts-tinymce.md)
 - [Cómo crear una página básica](./crear-pagina-basica.md)
 
 **Tarea práctica:**
 - Crear una nueva página en su sitio con el título "Sobre nosotros" y agregar un breve contenido.
 
----
 
-## Día 2: Gestión de contenido y configuración básica
-**Objetivo:** Aprender a gestionar y personalizar contenido en WordPress con un enfoque práctico y accesible.
+## Día 2: Gestión de contenido y personalización
+**Objetivo:** Aprender a gestionar categorías, entradas, y personalizar el menú principal, adaptando el contenido al sitio "Amor sin fronteras".
 
-- [Ajustes básicos del sitio web](./ajustes-basicos.md)
+- [Cómo crear categorías](./crear-categorias.md)
 - [Cómo crear y editar una entrada](./crear-editar-entrada.md)
+- [Cómo personalizar el menú principal](./personalizar-menu-principal.md)
 - [Gestión de medios: imágenes y archivos](./gestion-medios.md)
-- [Introducción al editor clásico TinyMCE (accesibilidad y shortcuts)](./editor-tinymce.md)
+- [Cómo crear una galería de imágenes](./crear-galeria.md)
 
 **Tarea práctica:**
-- Crear una entrada con un título y contenido descriptivo, además de subir al menos una imagen o archivo adjunto.
+- Crear al menos tres categorías que reflejen el contenido del sitio (por ejemplo, "Actividades", "Noticias", "Historia").
+- Crear una entrada en la categoría adecuada con texto descriptivo y una imagen.
+- Crear una galería de imágenes para complementar la entrada.
 
----
 
-## Día 3: Menús, plugins y buenas prácticas
-**Objetivo:** Gestionar el menú principal, explorar la instalación de plugins, y aplicar buenas prácticas para crear contenido accesible.
+## Día 3: Formularios, widgets y buenas prácticas
+**Objetivo:** Implementar formularios de contacto, configurar widgets y aplicar buenas prácticas para contenido accesible.
 
-- [Cómo personalizar el menú principal](./personalizar-menu-principal.md)
-- [Cómo gestionar plugins y temas](./gestionar-plugins-temas.md)
-- [Cómo instalar y configurar un tema accesible](./instalar-configurar-tema.md)
+- [Uso de formularios de contacto con WP Forms](./formularios-wpforms.md)
+- [Cómo añadir widgets: widget de iconos sociales](./widgets-iconos-sociales.md)
 - [Buenas prácticas para crear contenido accesible](./buenas-practicas.md)
 - [Recursos útiles para aprender más sobre WordPress](./recursos-utiles.md)
 
 **Tarea práctica:**
-- Personalizar el menú principal añadiendo enlaces a las páginas y entradas creadas.
+- Crear un formulario de contacto con campos básicos (nombre, correo, mensaje) y añadirlo a una página.
+- Añadir el widget de iconos sociales en la barra lateral o pie de página, usando los enlaces de las redes sociales del sitio.
