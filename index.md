@@ -19,6 +19,7 @@ layout: page
 **Tarea práctica:**
 - Crear una nueva página en su sitio con el título "Sobre nosotros" y agregar un breve contenido.
 
+---
 
 ## Día 2: Gestión de contenido y personalización
 **Objetivo:** Aprender a gestionar categorías, entradas, y personalizar el menú principal, adaptando el contenido al sitio "Amor sin fronteras".
@@ -34,6 +35,7 @@ layout: page
 - Crear una entrada en la categoría adecuada con texto descriptivo y una imagen.
 - Crear una galería de imágenes para complementar la entrada.
 
+---
 
 ## Día 3: Formularios, widgets y buenas prácticas
 **Objetivo:** Implementar formularios de contacto, configurar widgets y aplicar buenas prácticas para contenido accesible.
