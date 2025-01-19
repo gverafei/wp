@@ -6,15 +6,15 @@ layout: page
 ## Día 1: Introducción y primeros pasos
 **Objetivo:** Familiarizarse con WordPress, explorar el sitio actual y aprender las bases para trabajar en la plataforma, incluyendo navegación accesible, configuración básica y creación de páginas.
 
-- [¿Qué es WordPress y para qué sirve?](./que-es-wordpress.md)
-- [Popularidad y estadísticas de WordPress](./popularidad-estadisticas.md)
-- [Beneficios de usar WordPress para sitios web accesibles](./beneficios-wordpress-accesibles.md)
-- [Conociendo los elementos del sitio "Amor sin fronteras"](./conociendo-sitio.md)
-- [Acceso al área de administración de WordPress](./acceso-administracion.md)
-- [Cómo navegar en WordPress usando el teclado](./navegar-wordpress.md)
-- [Ajustes básicos del sitio web](./ajustes-basicos.md)
-- [Shortcuts del editor clásico TinyMCE](./shortcuts-tinymce.md)
-- [Cómo crear una página básica](./crear-pagina-basica.md)
+- [¿Qué es WordPress y para qué sirve?](./que-es-wordpress)
+- [Popularidad y estadísticas de WordPress](./popularidad-estadisticas)
+- [Beneficios de usar WordPress para sitios web accesibles](./beneficios-wordpress-accesibles)
+- [Conociendo los elementos del sitio "Amor sin fronteras"](./conociendo-sitio)
+- [Acceso al área de administración de WordPress](./acceso-administracion)
+- [Cómo navegar en WordPress usando el teclado](./navegar-wordpress)
+- [Ajustes básicos del sitio web](./ajustes-basicos)
+- [Shortcuts del editor clásico TinyMCE](./shortcuts-tinymce)
+- [Cómo crear una página básica](./crear-pagina-basica)
 
 **Tarea práctica:**
 - Crear una nueva página en su sitio con el título "Sobre nosotros" y agregar un breve contenido.
@@ -24,11 +24,11 @@ layout: page
 ## Día 2: Gestión de contenido y personalización
 **Objetivo:** Aprender a gestionar categorías, entradas, y personalizar el menú principal, adaptando el contenido al sitio "Amor sin fronteras".
 
-- [Cómo crear categorías](./crear-categorias.md)
-- [Cómo crear y editar una entrada](./crear-editar-entrada.md)
-- [Cómo personalizar el menú principal](./personalizar-menu-principal.md)
-- [Gestión de medios: imágenes y archivos](./gestion-medios.md)
-- [Cómo crear una galería de imágenes](./crear-galeria.md)
+- [Cómo crear categorías](./crear-categorias)
+- [Cómo crear y editar una entrada](./crear-editar-entrada)
+- [Cómo personalizar el menú principal](./personalizar-menu-principal)
+- [Gestión de medios: imágenes y archivos](./gestion-medios)
+- [Cómo crear una galería de imágenes](./crear-galeria)
 
 **Tarea práctica:**
 - Crear al menos tres categorías que reflejen el contenido del sitio (por ejemplo, "Actividades", "Noticias", "Historia").
@@ -40,10 +40,10 @@ layout: page
 ## Día 3: Formularios, widgets y buenas prácticas
 **Objetivo:** Implementar formularios de contacto, configurar widgets y aplicar buenas prácticas para contenido accesible.
 
-- [Uso de formularios de contacto con WP Forms](./formularios-wpforms.md)
-- [Cómo añadir widgets: widget de iconos sociales](./widgets-iconos-sociales.md)
-- [Buenas prácticas para crear contenido accesible](./buenas-practicas.md)
-- [Recursos útiles para aprender más sobre WordPress](./recursos-utiles.md)
+- [Uso de formularios de contacto con WP Forms](./formularios-wpforms)
+- [Cómo añadir widgets: widget de iconos sociales](./widgets-iconos-sociales)
+- [Buenas prácticas para crear contenido accesible](./buenas-practicas)
+- [Recursos útiles para aprender más sobre WordPress](./recursos-utiles)
 
 **Tarea práctica:**
 - Crear un formulario de contacto con campos básicos (nombre, correo, mensaje) y añadirlo a una página.
