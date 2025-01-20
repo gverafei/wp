@@ -50,9 +50,7 @@ Para navegar por el área de administración usando el teclado y un lector de pa
 
 1. Presiona **Tab** repetidamente para moverte hasta la barra lateral izquierda.
 2. Una vez en el menú principal, utiliza las flechas **Arriba** y **Abajo** para desplazarte entre las opciones.
-3. Para expandir un submenú (como el de "Entradas"), pulsa **Enter** o la flecha **Derecha**.
-4. Para contraer un submenú, utiliza la flecha **Izquierda**.
-5. Cuando encuentres la opción deseada, pulsa **Enter** para cargar su contenido en el área principal.
+3. Cuando encuentres la opción deseada, pulsa **Enter** para cargar su contenido en el área principal.
 
 ### Contenido principal
 
@@ -66,6 +64,7 @@ Para navegar por el área de administración usando el teclado y un lector de pa
 ## Consejos para la navegación
 
 - Usa **Insert + Tab** (con NVDA) o un comando similar en tu lector de pantalla para obtener descripciones detalladas de los elementos en los que estás enfocado.
+- Usa **Alt + D** o **Ctrl + L** para saltar a la barra de direcciones del navegador.
 - Familiarízate con la estructura de la barra lateral para moverte rápidamente entre las secciones más utilizadas.
 - Practica los atajos de teclado para realizar tareas comunes de forma más eficiente.
 
