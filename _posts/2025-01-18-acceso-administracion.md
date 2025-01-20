@@ -4,7 +4,7 @@ title: Acceso al área de administración de WordPress
 permalink: acceso-administracion
 ---
 
-![Página de inicio de sesión de WordPress donde se solicitan la "Nombre de usuario o dirección de correo" y la "Contraseña" de acceso.](images/acceso-administracion.png)
+![Página de inicio de sesión de WordPress donde se solicita el "Nombre de usuario o dirección de correo" y la "Contraseña" de acceso.](images/acceso-administracion.png)
 
 El área de administración de WordPress es donde puedes gestionar todo el contenido y configuraciones de tu sitio web. Para acceder, necesitas conocer la URL del sitio y las credenciales de inicio de sesión.
 
@@ -13,11 +13,11 @@ El área de administración de WordPress es donde puedes gestionar todo el conte
 Para este curso, trabajaremos con el siguiente sitio de prácticas:
 
 - **URL del sitio web de práctica:**  
-  [https://cursos.mexicocentral.cloudapp.azure.com/curso/](https://cursos.mexicocentral.cloudapp.azure.com/curso/){:target="_blank", :alt="Enlace al sitio web de práctica"}.
+  [https://cursos.mexicocentral.cloudapp.azure.com/curso/](https://cursos.mexicocentral.cloudapp.azure.com/curso/){:target="_blank" alt="Enlace al sitio web de práctica"}.
   Aquí puedes ver cómo luce el sitio desde la perspectiva de los visitantes.
 
 - **URL del sitio web de administración de práctica:**  
-  [https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin](https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin){:target="_blank", :alt="Enlace al sitio web de administración de práctica"}.
+  [https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin](https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin){:target="_blank" alt="Enlace al sitio web de administración de práctica"}.
   Este enlace te lleva directamente al área de administración de WordPress, donde puedes gestionar el contenido y configuraciones del sitio.
 
 ### Acceso a la administración en cualquier WordPress
