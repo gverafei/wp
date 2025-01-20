@@ -72,3 +72,5 @@ En WordPress, las entradas son ideales para publicar contenido dinámico como no
 - Practica estos pasos para familiarizarte con el flujo de trabajo en WordPress.
 
 En resumen, crear y editar entradas en WordPress es un proceso sencillo que puedes realizar completamente con el teclado y un lector de pantalla.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado de lista de entradas del sitio.](images/crear-editar-entradas.png)

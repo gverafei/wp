@@ -76,3 +76,5 @@ En esta guía aprenderás cómo navegar, editar y gestionar un formulario ya exi
 - **Verifica la funcionalidad:** Revisa que todos los campos y el botón de envío funcionen correctamente.
 
 En resumen, WP Forms facilita la gestión de formularios de contacto en WordPress. Con estas instrucciones, podrás editar, localizar y crear formularios de manera accesible y eficiente.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado WpForms, especificamente la sección de edición del formulario de contacto del sitio.](images/formularios-wpforms.png)

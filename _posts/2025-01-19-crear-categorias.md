@@ -60,3 +60,5 @@ En la misma pantalla, encontrarás una lista con todas las categorías creadas. 
 ---
 
 En resumen, las categorías son una herramienta poderosa para organizar tu contenido en WordPress. Dedica unos minutos a configurar categorías relevantes para facilitar la navegación de tus visitantes y mejorar la organización de tu sitio.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado de crear y editar las categorias del sitio.](images/crear-categorias.png)

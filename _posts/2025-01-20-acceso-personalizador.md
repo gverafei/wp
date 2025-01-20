@@ -38,3 +38,5 @@ El personalizador muestra un panel a la izquierda con varias opciones y una vist
 ---
 
 En resumen, el personalizador es útil para realizar configuraciones iniciales como la imagen de fondo o colores del sitio. Sin embargo, es una herramienta que no necesitarás usar con frecuencia una vez que tu sitio esté configurado correctamente.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado del personalizador para cambiar la imagen de fondo principal del sitio.](images/acceso-personalizador.png)

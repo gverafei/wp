@@ -52,3 +52,4 @@ Los widgets en WordPress son bloques que permiten añadir contenido o funcionali
 
 ---
 
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado de Widgets donde se puede modificar las opciones del bloque de iconos sociales.](images/widgets-iconos-sociales.png)

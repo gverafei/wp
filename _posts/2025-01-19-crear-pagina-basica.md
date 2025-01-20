@@ -57,3 +57,5 @@ En WordPress, las páginas son útiles para contenido estático, como "Acerca de
 2. Pulsa **Enter** para abrir la página y verificar cómo se muestra al público.
 
 En resumen, crear y programar una página básica en WordPress es un proceso sencillo que puedes realizar completamente con el teclado. Practica estos pasos para familiarizarte con el flujo de trabajo y mejorar la experiencia de gestión de tu sitio.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado de creación de nueva página.](images/crear-pagina-basica.png)

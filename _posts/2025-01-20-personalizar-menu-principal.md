@@ -80,3 +80,5 @@ El menú principal en WordPress permite organizar y mostrar enlaces importantes 
 - **Prueba el menú:** Verifica que todos los enlaces funcionen correctamente y lleven a las páginas correspondientes.
 
 En resumen, personalizar el menú principal en WordPress es un proceso sencillo que te permite mejorar la navegación de tu sitio. Con estos pasos, podrás crear un menú funcional y accesible para tus visitantes.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado para administrar el menú principal del sitio.](images/personalizar-menu-principal.png)

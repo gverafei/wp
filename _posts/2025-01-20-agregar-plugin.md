@@ -81,3 +81,5 @@ Los plugins en WordPress permiten añadir o modificar funcionalidades de tu siti
 - **Prueba después de activar o desactivar:** Visita tu sitio después de realizar cambios para asegurarte de que todo funciona correctamente.
 
 En resumen, gestionar plugins en WordPress es un proceso sencillo que te permite personalizar tu sitio según tus necesidades. Con estos pasos, podrás instalar, activar, desactivar o eliminar plugins de manera eficiente.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado de para agregar un nuevo plugin con una lista preview de los 10 más descargados por la comunidad de usuarios.](images/agregar-plugin.png)

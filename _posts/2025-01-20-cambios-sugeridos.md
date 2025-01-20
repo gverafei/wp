@@ -58,6 +58,7 @@ Este documento presenta recomendaciones para optimizar el sitio web actual y mej
 
 - Reemplazar el plugin **FileBird Lite** con la galería nativa de WordPress para gestionar imágenes.  
 - La galería nativa es más accesible y fácil de usar con el teclado, lo que la hace ideal para este caso.
+- Cambiar la vista de la galería de medios a "Vista de cuadrícula" más amigable con el teclado.
 
 ---
 

@@ -17,6 +17,7 @@ La barra superior está disponible en todas las páginas del área de administra
 - Crear nuevas entradas, páginas o usuarios.
 - Acceder al sitio público para visualizar los cambios realizados.
 - Revisar notificaciones sobre actualizaciones, comentarios o mensajes.
+- El último enlace es para para cerrar la sesión del usuario actual.
 
 #### Barra lateral izquierda
 
@@ -39,10 +40,11 @@ Al seleccionar cualquier opción, el contenido principal del panel se actualiza 
 
 Para navegar por el área de administración usando el teclado y un lector de pantalla, sigue estos pasos:
 
-### Barra superior
+### Barra superior llamada barra de herramientas
 
-1. Utiliza la tecla **Tab** para desplazarte por los elementos de la barra superior.
-2. Cuando llegues a la opción que deseas, pulsa **Enter** para seleccionarla.
+1. Al inicio de la página se encuentra un vínculo llamado **Saltar a la barra de herramientas:** que permite saltar directamente a la barra superior. Este enlace suele ser el segundo elemento enfocado al presionar **Tab** desde la parte superior de la página. Pulsa **Enter** para activar este enlace y evitar navegar por menús repetitivos.
+2. Utiliza la tecla **Tab** para desplazarte por los elementos de la barra superior.
+3. Cuando llegues a la opción que deseas, pulsa **Enter** para seleccionarla.
 
 ### Barra lateral izquierda
 
@@ -54,7 +56,7 @@ Para navegar por el área de administración usando el teclado y un lector de pa
 
 ### Contenido principal
 
-1. En la barra lateral izquierda se encuentra un vínculo llamado **Saltar al contenido principal:** que permite saltar directamente al contenido principal. Este enlace suele ser el primer elemento enfocado al presionar **Tab** desde la parte superior de la página. Pulsa **Enter** para activar este enlace y evitar navegar por menús repetitivos.
+1. Al inicio de la página se encuentra un vínculo llamado **Saltar al contenido principal:** que permite saltar directamente al contenido principal. Este enlace suele ser el primer elemento enfocado al presionar **Tab** desde la parte superior de la página. Pulsa **Enter** para activar este enlace y evitar navegar por menús repetitivos.
 2. Después de seleccionar una opción en la barra lateral, usa **Tab** para moverte entre los elementos interactivos dentro del contenido principal.
 3. Los elementos incluyen botones, enlaces, campos de formulario y tablas.
 4. Pulsa **Enter** para activar o seleccionar un elemento enfocado.

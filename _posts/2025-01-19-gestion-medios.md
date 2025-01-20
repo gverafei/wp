@@ -68,3 +68,5 @@ La biblioteca de medios de WordPress es donde se almacenan todas las imágenes, 
 - **Elimina archivos innecesarios:** Mantén tu biblioteca limpia eliminando archivos que ya no necesitas.
 
 En resumen, la biblioteca de medios de WordPress es una herramienta poderosa para gestionar imágenes y archivos. Con estos pasos, podrás trabajar eficientemente y garantizar que tu contenido sea accesible y bien organizado.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado de gestión de medios con la lista de miniaturas de las imágenes publicadas en el sitio.](images/gestion-medios.png)

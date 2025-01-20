@@ -79,3 +79,5 @@ Antes de configurar una página de entradas, debes crear una página vacía en W
 - **Revisa el diseño:** Algunos temas pueden mostrar las entradas de forma diferente según la configuración de lectura, así que verifica la apariencia en el sitio público.
 
 En resumen, los ajustes de lectura de WordPress te permiten personalizar la experiencia de navegación de los visitantes de tu sitio, mostrando contenido estático o dinámico según tus necesidades.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado de ajustes de lectura para cambiar la página principal y la página de entradas.](images/ajustes-lectura.png)

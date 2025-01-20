@@ -59,3 +59,4 @@ Cuando termines, navega hasta el botón **Guardar cambios** y presiona **Enter**
 
 En resumen, los ajustes básicos de WordPress son fundamentales para personalizar tu sitio y hacerlo funcional. Dedica unos minutos a configurarlos correctamente y tu sitio estará listo para comenzar.
 
+![Captura de pantalla del área de administración de WordPress donde se muestra la página de ajustes generales.](images/ajustes-basicos.png)

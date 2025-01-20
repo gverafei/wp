@@ -66,3 +66,5 @@ Las galerías de imágenes en WordPress son útiles para mostrar múltiples foto
 - **Evita demasiadas imágenes en una sola galería:** Esto puede dificultar la carga del sitio y la experiencia del usuario.
 
 En resumen, las galerías de imágenes son una excelente manera de enriquecer tu contenido. Con estos pasos, podrás crear y gestionar galerías de manera eficiente y accesible.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado para crear una nueva galería dentro del editor tinyMCE.](images/crear-galeria.png)

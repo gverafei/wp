@@ -89,3 +89,5 @@ Requieren la tecla Enter al final:
 Para una lista completa de atajos y más detalles, puedes consultar la documentación oficial de WordPress en [Atajos de teclado del editor clásico](https://wordpress.org/documentation/article/keyboard-shortcuts-classic-editor/).
 
 Estos atajos te permitirán mejorar tu eficiencia al editar contenido en WordPress, especialmente si dependes del teclado y un lector de pantalla para tus tareas diarias.
+
+![Captura de pantalla del editor de texto TinyMCE.](images/shortcuts-tinymce.png)
