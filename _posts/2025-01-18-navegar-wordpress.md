@@ -4,6 +4,20 @@ title: Cómo navegar en WordPress usando el teclado
 permalink: navegar-wordpress
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Estructura del panel de administración](#estructura-del-panel-de-administración)
+  - [Barra superior](#barra-superior)
+  - [Barra lateral izquierda](#barra-lateral-izquierda)
+- [Navegación con el teclado en WordPress](#navegación-con-el-teclado-en-wordpress)
+  - [Barra superior llamada barra de herramientas](#barra-superior-llamada-barra-de-herramientas)
+  - [Barra lateral izquierda](#barra-lateral-izquierda)
+  - [Contenido principal](#contenido-principal)
+- [Consejos para la navegación](#consejos-para-la-navegación)
+
+---
+
 El panel de administración de WordPress está diseñado para permitir una navegación eficiente utilizando el teclado, lo que lo hace accesible para usuarios ciegos que utilizan lectores de pantalla. A continuación, te explicamos cómo está organizado el panel y cómo desplazarte por sus elementos.
 
 ### Estructura del panel de administración

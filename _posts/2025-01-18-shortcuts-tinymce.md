@@ -4,6 +4,16 @@ title: Shortcuts del editor clásico TinyMCE
 permalink: shortcuts-tinymce
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Navegación en el editor](#navegación-en-el-editor)
+- [Atajos de teclado básicos](#atajos-de-teclado-básicos)
+- [Atajos adicionales con Alt + Shift](#atajos-adicionales-con-alt--shift)
+- [Atajos para formato de texto](#atajos-para-formato-de-texto)
+
+---
+
 El editor clásico de WordPress, conocido como TinyMCE, permite a los usuarios realizar tareas de edición de manera eficiente mediante atajos de teclado. Estos atajos son especialmente útiles para usuarios que utilizan lectores de pantalla, ya que facilitan la navegación y edición sin necesidad de un ratón.
 
 ## Navegación en el editor
