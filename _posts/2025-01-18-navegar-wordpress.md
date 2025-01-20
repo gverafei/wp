@@ -54,9 +54,10 @@ Para navegar por el área de administración usando el teclado y un lector de pa
 
 ### Contenido principal
 
-1. Después de seleccionar una opción en la barra lateral, usa **Tab** para moverte entre los elementos interactivos dentro del contenido principal.
-2. Los elementos incluyen botones, enlaces, campos de formulario y tablas.
-3. Pulsa **Enter** para activar o seleccionar un elemento enfocado.
+1. En la barra lateral izquierda se encuentra un vínculo llamado **Saltar al contenido principal:** que permite saltar directamente al contenido principal. Este enlace suele ser el primer elemento enfocado al presionar **Tab** desde la parte superior de la página. Pulsa **Enter** para activar este enlace y evitar navegar por menús repetitivos.
+2. Después de seleccionar una opción en la barra lateral, usa **Tab** para moverte entre los elementos interactivos dentro del contenido principal.
+3. Los elementos incluyen botones, enlaces, campos de formulario y tablas.
+4. Pulsa **Enter** para activar o seleccionar un elemento enfocado.
 
 ---
 
