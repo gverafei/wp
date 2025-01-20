@@ -7,8 +7,8 @@ layout: page
 **Objetivo:** Familiarizarse con WordPress, explorar el sitio actual y aprender las bases para trabajar en la plataforma, incluyendo navegación accesible, configuración básica y creación de páginas.
 
 - [¿Qué es WordPress y para qué sirve?](./que-es-wordpress)
-- [Popularidad y estadísticas de WordPress](./popularidad-estadisticas)
-- [Beneficios de usar WordPress para sitios web accesibles](./beneficios-wordpress-accesibles)
+- [Conceptos básicos de WordPress](./conceptos-basicos-de-wordpress)
+- [Compatibilidad con lectores de pantalla](./compatibilidad-lectores-pantalla)
 - [Conociendo los elementos del sitio "Amor sin fronteras"](./conociendo-sitio)
 - [Acceso al área de administración de WordPress](./acceso-administracion)
 - [Cómo navegar en WordPress usando el teclado](./navegar-wordpress)
