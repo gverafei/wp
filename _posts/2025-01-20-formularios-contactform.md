@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Uso de formularios de contacto con Contact Form 7 (opcional)
-permalink: formularios-wpforms
+permalink: formularios-contactform
 ---
 
 ## Uso de formularios de contacto con Contact Form 7 (opcional)
@@ -75,3 +75,5 @@ permalink: formularios-wpforms
 - **Prueba el formulario:** Verifica que todos los campos sean accesibles con el teclado y los lectores de pantalla.
 
 En resumen, **Contact Form 7** es una herramienta flexible para crear formularios de contacto accesibles en WordPress. Siguiendo estos pasos, podrás añadir y gestionar formularios en tu sitio de manera eficiente.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra el apartado Contact Form 7, especificamente la sección de edición del formulario de contacto del sitio.](images/formularios-contactform.png)
