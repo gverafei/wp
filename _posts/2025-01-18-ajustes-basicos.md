@@ -1,26 +1,77 @@
 ---
 layout: post
-title: ¿Qué es WordPress y para qué sirve?
-permalink: que-es-wordpress
+title: Ajustes básicos del sitio web
+permalink: ajustes-basicos
 ---
 
-WordPress es un gestor de contenidos que usan millones de sitios web en todo el mundo, desde pequeños blogs a grandes webs.
+En esta sección aprenderás a configurar los ajustes básicos de tu sitio web en WordPress. Estos ajustes son esenciales para personalizar y optimizar tu sitio de acuerdo con las necesidades de tu proyecto.
 
-Su gran popularidad radica en que es una plataforma sencilla pero muy potente Desde su lanzamiento en 2003, ha evolucionado de una plataforma de blogs a una herramienta versátil utilizada para desarrollar diversos tipos de sitios web, incluyendo portales, tiendas en línea, sitios de escuelas, sitios corporativos, entre otros.
+### Acceder a los ajustes
 
-## ¿Para qué sirve WordPress?
+1. Desde la barra lateral izquierda, utiliza las flechas del teclado para navegar hasta la opción **Ajustes**.  
+2. Pulsa **Enter** para expandir el submenú y selecciona una de las siguientes opciones para configurar aspectos específicos de tu sitio.
 
-WordPress facilita la creación y administración de contenido en línea sin necesidad de conocimientos técnicos. Su flexibilidad y personalización permiten adaptarlo a las necesidades específicas de cada usuario, ofreciendo una amplia variedad de temas y plugins que extienden sus funcionalidades.
+---
 
-## Estadísticas de uso
+### Configuración general
 
-WordPress es el sistema más utilizado del mundo. Según datos de W3Techs, WordPress es utilizado por el **62.0% de los sitios web** que emplean un sistema de gestión de contenidos, lo que representa el **43.7% de todos los sitios web en Internet**. Esta amplia adopción refleja la confianza de millones de usuarios en su robustez y facilidad de uso.
+En esta sección puedes realizar cambios básicos sobre la identidad del sitio:
 
-## Ventajas de usar WordPress
+- **Título del sitio:**  
+  Este es el nombre que aparecerá en la parte superior de tu sitio y en los motores de búsqueda.  
+  - Usa **Tab** para navegar hasta el campo "Título del sitio".  
+  - Escribe el nombre de tu sitio, por ejemplo, "Amor sin fronteras".
 
-- **Facilidad de uso:** Su interfaz intuitiva permite a usuarios de todos los niveles gestionar contenido sin complicaciones.
-- **Flexibilidad:** Adecuado para diversos tipos de sitios web, desde blogs personales hasta tiendas en línea.
-- **Personalización:** Miles de temas y plugins permiten adaptar el sitio a las necesidades específicas de cada proyecto.
-- **Comunidad activa:** Una amplia comunidad global contribuye al desarrollo continuo y ofrece soporte a los usuarios.
+- **Descripción corta:**  
+  Es una frase breve que describe tu sitio web.  
+  - Usa **Tab** para llegar al campo "Descripción corta".  
+  - Escribe una frase como: "Promovemos la inclusión y el apoyo a personas con discapacidad".
 
-En resumen WordPress es una herramienta poderosa y accesible que ha transformado la manera en que se crean y gestionan los sitios web en la actualidad. Su popularidad y versatilidad lo convierten en una excelente opción para cualquier proyecto en línea.
+- **Zona horaria:**  
+  Selecciona la zona horaria adecuada para que los eventos y publicaciones tengan la hora correcta.  
+  - Usa **Tab** para llegar a la lista desplegable de zonas horarias.  
+  - Usa las flechas **Arriba** y **Abajo** para seleccionar tu zona horaria (por ejemplo, "Ciudad de México").
+
+- **Formato de fecha y hora:**  
+  - Usa **Tab** para seleccionar entre los formatos de fecha y hora predefinidos.  
+  - Pulsa **Enter** para confirmar tu elección.
+
+Una vez realizados los cambios, pulsa **Tab** hasta llegar al botón **Guardar cambios** y presiona **Enter** para guardar.
+
+---
+
+### Lectura
+
+Esta sección define cómo se muestra el contenido de tu sitio a los visitantes:
+
+- **Página de inicio:**  
+  Puedes elegir mostrar las últimas entradas del blog o una página estática.  
+  - Usa **Tab** para seleccionar entre las opciones "Tus últimas entradas" o "Una página estática".  
+  - Si seleccionas "Una página estática", usa **Tab** para elegir una página como "Inicio" desde el menú desplegable.
+
+- **Número máximo de entradas:**  
+  Configura cuántas publicaciones se mostrarán por página en tu sitio.  
+  - Usa **Tab** para llegar al campo correspondiente e ingresa un número.
+
+Cuando termines, navega hasta el botón **Guardar cambios** y presiona **Enter**.
+
+---
+
+### Enlaces permanentes
+
+Los enlaces permanentes afectan cómo se muestran las URL de tu sitio. Esto es importante tanto para la navegación como para los motores de búsqueda:
+
+1. Navega hasta la sección **Ajustes > Enlaces permanentes**.  
+2. Selecciona la estructura que prefieras. Por ejemplo:  
+   - **Nombre de la entrada:** Genera URLs claras como `tusitio.com/titulo-de-la-entrada`.  
+   - Usa las flechas **Arriba** y **Abajo** para seleccionar tu opción.  
+3. Pulsa **Tab** hasta el botón **Guardar cambios** y presiona **Enter**.
+
+---
+
+## Consejos finales
+
+- Realiza estas configuraciones al inicio para garantizar que tu sitio tenga un buen funcionamiento y una presentación profesional.  
+- Si tienes dudas durante el proceso, usa el lector de pantalla para obtener detalles sobre cada campo o ajuste.
+
+En resumen, los ajustes básicos de WordPress son fundamentales para personalizar tu sitio y hacerlo funcional. Dedica unos minutos a configurarlos correctamente y tu sitio estará listo para comenzar.
