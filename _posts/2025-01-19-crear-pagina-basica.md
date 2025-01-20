@@ -46,9 +46,9 @@ En WordPress, las páginas son útiles para contenido estático, como "Acerca de
 
 1. Usa **Tab** para moverte al botón **Publicar** o **Guardar como borrador** si no deseas publicarla de inmediato.  
 2. **Programar una página:**  
-   - Si deseas que la página se publique en una fecha futura, usa **Tab** para navegar a la opción de **Publicar inmediatamente**.  
+   - Si deseas que la página se publique en una fecha futura, usa **Tab** para navegar a la opción de **Publicar inmediatamente**.
    - Pulsa **Enter** para abrir el selector de fecha y hora.  
-   - Usa las flechas para ajustar la fecha y hora en que deseas que la página se publique.  
+   - Usa las flechas para ajustar la fecha y hora (en formato de 24 horas) en que deseas que la página se publique.  
    - Una vez configurada, usa **Tab** para volver al botón **Programar** y pulsa **Enter**.
 
 ### Ver la página publicada
