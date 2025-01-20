@@ -49,6 +49,7 @@ layout: page
 - [Uso de formularios de contacto con WP Forms](./formularios-wpforms)
 - [Buenas prácticas para crear contenido accesible](./buenas-practicas)
 - [Recursos útiles para aprender más sobre WordPress](./recursos-utiles)
+- [Cambios sugeridos al sitio actual](./cambios-sugeridos)
 
 **Tarea práctica:**
 - Revisa de nuevo los contenidos del curso y práctica su uso para que te familiarices con la plataforma.

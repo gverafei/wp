@@ -55,6 +55,25 @@ Los plugins en WordPress permiten añadir o modificar funcionalidades de tu siti
 
 ---
 
+## Configurar actualizaciones automáticas para plugins
+
+1. **Acceder a la lista de plugins:**  
+   - Desde la barra lateral izquierda, utiliza **Tab** o las flechas para navegar hasta **Plugins** y pulsa **Enter**.
+
+2. **Navegar por las opciones de cada plugin:**  
+   - Usa **Tab** para moverte a la lista de plugins instalados.  
+   - Cada plugin tiene una opción llamada **Activar actualizaciones automáticas**.  
+   - Usa **Tab** para llegar a esta opción y pulsa **Enter**.
+
+3. **Verificar el estado:**  
+   - Una vez activada la opción, el lector de pantalla confirmará que las actualizaciones automáticas están habilitadas.  
+   - Puedes desactivar esta opción siguiendo el mismo procedimiento y seleccionando **Desactivar actualizaciones automáticas**.
+
+4. **Revisar actualizaciones manuales:**  
+   - Aunque las actualizaciones automáticas están activadas, puedes verificar si hay actualizaciones pendientes navegando a **Escritorio > Actualizaciones**.
+
+---
+
 ## Consejos al gestionar plugins
 
 - **Activa solo los plugins necesarios:** Tener muchos plugins activados puede afectar el rendimiento de tu sitio.  
