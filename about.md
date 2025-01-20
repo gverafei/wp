@@ -20,3 +20,6 @@ Este taller está dirigido a personas interesadas en el desarrollo de aplicacion
 - Acceso a Internet.
 - Navegador web.
 
+**Sitio web de prácticas del curso:**
+- [URL de sitio web de prácticas](https://cursos.mexicocentral.cloudapp.azure.com/curso/)
+- [URL de sitio de administración web de prácticas](https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin)
