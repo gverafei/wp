@@ -12,7 +12,8 @@ Este documento presenta recomendaciones para optimizar el sitio web actual y mej
 
 ## Plugins
 
-### Desactivar (se pueden reactivar si son necesarios en algún momento)
+### Desactivar
+Se pueden reactivar si son necesarios en algún momento.
 
 - **All-in-One WP Migration**  
 - **FileBird Lite**  
@@ -22,7 +23,8 @@ Este documento presenta recomendaciones para optimizar el sitio web actual y mej
 - **One Click Accessibility**
 - **LiteSpeed Cache**
 
-### Borrar (ya no son necesarios)
+### Borrar
+Es probable que ya no sean necesarios.
 
 - **Starter Templates**
 
