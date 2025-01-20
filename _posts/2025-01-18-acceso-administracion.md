@@ -12,12 +12,12 @@ El área de administración de WordPress es donde puedes gestionar todo el conte
 
 Para este curso, trabajaremos con el siguiente sitio de prácticas:
 
-- **URL del sitio web de prácticas:**  
-  [https://cursos.mexicocentral.cloudapp.azure.com/curso/](https://cursos.mexicocentral.cloudapp.azure.com/curso/){:target="_blank"}
+- **URL del sitio web de práctica:**  
+  [https://cursos.mexicocentral.cloudapp.azure.com/curso/](https://cursos.mexicocentral.cloudapp.azure.com/curso/){:target="_blank", :alt="Enlace al sitio web de práctica"}.
   Aquí puedes ver cómo luce el sitio desde la perspectiva de los visitantes.
 
-- **URL del sitio de administración web:**  
-  [https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin](https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin){:target="_blank"}
+- **URL del sitio web de administración de práctica:**  
+  [https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin](https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin){:target="_blank", :alt="Enlace al sitio web de administración de práctica"}.
   Este enlace te lleva directamente al área de administración de WordPress, donde puedes gestionar el contenido y configuraciones del sitio.
 
 ### Acceso a la administración en cualquier WordPress
