@@ -65,9 +65,10 @@ Este documento presenta recomendaciones para optimizar el sitio web actual y mej
 ## Página inicial
 
 - Analizar si el formulario de contacto es necesario en la página principal.  
-  - En caso de que no sea imprescindible, reemplazarlo por una sección con:  
-    - La dirección de la fundación.  
-    - Una descripción detallada de la organización y los servicios que ofrece.  
+  - En caso de que no sea imprescindible, reemplazarlo por una sección con por ejemplo:  
+    - La dirección de la fundación. 
+    - Una descripción detallada de la organización y los servicios que ofrece.
+    - Datos para colaboración como donativos, número de cuenta bancaria, servicio social, etc. 
   - Mover el formulario de contacto a una página separada llamada **"Contáctanos"**.
 - Se recomienda modificar la imagen de fondo del sitio cada 2 o 3 meses para dar una sensación de actualización y dinamismo, así como publicar entradas con regularidad.
 
