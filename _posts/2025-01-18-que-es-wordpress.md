@@ -4,7 +4,7 @@ title: ¿Qué es WordPress y para qué sirve?
 permalink: que-es-wordpress
 ---
 
-## En esta página:
+### En esta página:
 
 - [¿Qué es WordPress?](#que-es-wordpress)
 - [¿Para qué sirve WordPress?](#para-que-sirve-wordpress)

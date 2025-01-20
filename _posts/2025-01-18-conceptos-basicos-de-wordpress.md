@@ -4,6 +4,25 @@ title: Conceptos básicos de WordPress
 permalink: conceptos-basicos-de-wordpress
 ---
 
+### En esta página:
+
+- [Introducción](#introduccion)
+- [Parte pública y parte de administración en WordPress](#parte-publica-y-parte-de-administracion-en-wordpress)
+- [Temas](#temas)
+- [Plugins](#plugins)
+- [Páginas](#paginas)
+- [Entradas](#entradas)
+- [Categorías y etiquetas](#categorias-y-etiquetas)
+- [Menús](#menus)
+- [Widgets](#widgets)
+- [Editores de contenido](#editores-de-contenido)
+- [Personalizador](#personalizador)
+- [Área de administración](#area-de-administracion)
+
+---
+
+## Introducción
+
 WordPress es una plataforma que permite crear y gestionar sitios web de forma sencilla. Para usar WordPress, es importante conocer algunos conceptos básicos que te ayudarán a entender cómo funciona y cómo interactuar con las distintas herramientas disponibles.
 
 ### Parte pública y parte de administración en WordPress
