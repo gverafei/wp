@@ -50,8 +50,8 @@ layout: page
 - [Recursos útiles para aprender más sobre WordPress](./recursos-utiles)
 - [Cambios sugeridos al sitio actual](./cambios-sugeridos)
 
-**Tarea práctica:**
-- Revisa de nuevo los contenidos del curso y práctica su uso para que te familiarices con la plataforma.
+**Trabajo después del curso:**
+- Aplica los conocimientos adquiridos para gestionar y actualizar regularmente el sitio web utilizando WordPress. Practica la creación y publicación de contenido, como páginas, avisos y multimedia, para mantener la información relevante y accesible para tu público.
 
 **Prácticas opcionales:**
 Estas configuraciones no son particularmente amigables con el teclado, por lo que es posible requieran la participación de una persona normovisual.
