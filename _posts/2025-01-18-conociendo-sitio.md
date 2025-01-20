@@ -4,8 +4,6 @@ title: Conociendo los elementos del sitio "Amor sin fronteras"
 permalink: conociendo-sitio
 ---
 
-![Captura de pantalla de la página principal completa del sitio web de amor sin fronteras.](images/conociendo-sitio.png){:style="width:50%; height:auto;"}
-
 El sitio web de "Amor sin fronteras" está estructurado para proporcionar información clara y accesible sobre la organización y sus actividades. A continuación, se describen las principales secciones del sitio:
 
 ### Menú principal
@@ -68,3 +66,5 @@ En la parte inferior el sitio incluye enlaces a las redes sociales de la organiz
 - **Twitter:** Amor sin fronteras
 
 En resumen, el sitio web de "Amor sin fronteras" está diseñado para ser informativo y accesible, facilitando a los usuarios encontrar la información que necesitan sobre la organización y sus actividades.
+
+![Captura de pantalla de la página principal completa del sitio web de amor sin fronteras.](images/conociendo-sitio.png){:style="width:50%; height:auto;"}
