@@ -68,3 +68,5 @@ Para navegar por el área de administración usando el teclado y un lector de pa
 - Practica los atajos de teclado para realizar tareas comunes de forma más eficiente.
 
 En resumen, el panel de administración de WordPress está diseñado para ser accesible con teclado y lectores de pantalla. Siguiendo estas indicaciones, podrás gestionar tu sitio de manera efectiva y fluida.
+
+![Captura de pantalla del área de administración de WordPress donde se muestra la barra superior, la barra lateral izquierda y el área de contenido.](images/navegar-wordpress.png)

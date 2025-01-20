@@ -20,6 +20,7 @@ Este documento presenta recomendaciones para optimizar el sitio web actual y mej
 - **Hostinger Easy Onboarding**  
 - **Hostinger Tools**  
 - **One Click Accessibility**
+- **LiteSpeed Cache**
 
 ### Borrar (ya no son necesarios)
 
