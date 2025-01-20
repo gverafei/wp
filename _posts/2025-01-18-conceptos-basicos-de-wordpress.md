@@ -18,16 +18,16 @@ Los plugins son herramientas que añaden funcionalidades extra a tu sitio.
 - Por ejemplo, puedes instalar un plugin para añadir un formulario de contacto, optimizar imágenes o mejorar la seguridad.  
 - Los plugins se pueden activar, desactivar o eliminar desde el área de administración.
 
+### Páginas
+
+Las páginas son contenido más estático. Normalmente, se usan para secciones como "Acerca de nosotros", "Contacto" o "Historia".  
+- Las páginas no tienen categorías ni etiquetas y suelen ser permanentes en la estructura del sitio.
+
 ### Entradas
 
 Las entradas son publicaciones de contenido dinámico. Son ideales para compartir noticias, artículos o actualizaciones en tu sitio.  
 - En "Amor sin fronteras", las entradas podrían usarse para compartir noticias sobre eventos o actividades de la fundación.  
 - Las entradas suelen organizarse por categorías o etiquetas.
-
-### Páginas
-
-Las páginas son contenido más estático. Normalmente, se usan para secciones como "Acerca de nosotros", "Contacto" o "Historia".  
-- Las páginas no tienen categorías ni etiquetas y suelen ser permanentes en la estructura del sitio.
 
 ### Categorías y etiquetas
 
