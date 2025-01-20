@@ -4,6 +4,8 @@ title: Acceso al área de administración de WordPress
 permalink: acceso-administracion
 ---
 
+![Página de inicio de sesión de WordPress donde se solicitan la "Nombre de usuario o dirección de correo" y la "Contraseña" de acceso.](images/acceso-administracion.png)
+
 El área de administración de WordPress es donde puedes gestionar todo el contenido y configuraciones de tu sitio web. Para acceder, necesitas conocer la URL del sitio y las credenciales de inicio de sesión.
 
 ### Sitio web de prácticas del curso
@@ -19,8 +21,6 @@ Para este curso, trabajaremos con el siguiente sitio de prácticas:
   Este enlace te lleva directamente al área de administración de WordPress, donde puedes gestionar el contenido y configuraciones del sitio.
 
 ### Acceso a la administración en cualquier WordPress
-
-![Página de inicio de sesión de WordPress donde se solicitan la "Nombre de usuario o dirección de correo" y la "Contraseña" de acceso.](images/acceso-administracion.png)
 
 Si tienes acceso a cualquier sitio de WordPress, puedes llegar al área de administración simplemente añadiendo `/wp-admin` al final de la URL del sitio. Por ejemplo:
 - Si la URL de tu sitio es `https://ejemplo.com`, el área de administración será:  
