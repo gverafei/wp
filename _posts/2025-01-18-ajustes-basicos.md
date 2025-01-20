@@ -8,8 +8,13 @@ En esta sección aprenderás a configurar los ajustes básicos de tu sitio web e
 
 ### Acceder a los ajustes
 
+<<<<<<< HEAD
+1. Desde la barra lateral izquierda del área de administración, utiliza las flechas del teclado para navegar hasta la opción **Ajustes**.  
+2. Pulsa **Enter** para expandir el submenú y selecciona una de las siguientes opciones para configurar aspectos específicos de tu sitio.
+=======
 1. Desde la barra lateral izquierda, utiliza las flechas del teclado para navegar hasta la opción **Ajustes**.  
 2. Pulsa **Enter** para expandir el submenú y selecciona una de las siguientes opciones para configurar aspectos específicos de tu sitio.
+>>>>>>> 1e4b8b4d728237c39896c4569aee33897517e145
 
 ---
 
@@ -22,16 +27,52 @@ En esta sección puedes realizar cambios básicos sobre la identidad del sitio:
   - Usa **Tab** para navegar hasta el campo "Título del sitio".  
   - Escribe el nombre de tu sitio, por ejemplo, "Amor sin fronteras".
 
+<<<<<<< HEAD
+- **Descripción corta:**  
+  Es una frase breve que describe tu sitio web.  
+  - Usa **Tab** para llegar al campo "Descripción corta".  
+  - Escribe una frase como: "Un desafío desde otra mirada".
+=======
 - **Descripción corta:**  
   Es una frase breve que describe tu sitio web.  
   - Usa **Tab** para llegar al campo "Descripción corta".  
   - Escribe una frase como: "Promovemos la inclusión y el apoyo a personas con discapacidad".
+>>>>>>> 1e4b8b4d728237c39896c4569aee33897517e145
 
 - **Zona horaria:**  
   Selecciona la zona horaria adecuada para que los eventos y publicaciones tengan la hora correcta.  
   - Usa **Tab** para llegar a la lista desplegable de zonas horarias.  
   - Usa las flechas **Arriba** y **Abajo** para seleccionar tu zona horaria (por ejemplo, "Ciudad de México").
 
+<<<<<<< HEAD
+- **Formato de fecha y hora:**  
+  - Usa **Tab** para seleccionar entre los formatos de fecha y hora predefinidos.  
+  - Pulsa **Enter** para confirmar tu elección.
+
+Una vez realizados los cambios, pulsa **Tab** hasta llegar al botón **Guardar cambios** y presiona **Enter** para guardar.
+
+---
+
+### Lectura
+
+Esta sección define cómo se muestra el contenido de tu sitio a los visitantes:
+
+- **Página de inicio:**  
+  Puedes elegir mostrar las últimas entradas del blog o una página estática.  
+  - Usa **Tab** para seleccionar entre las opciones "Tus últimas entradas" o "Una página estática".  
+  - Si seleccionas "Una página estática", usa **Tab** para elegir una página como "Inicio" desde el menú desplegable.
+
+- **Número máximo de entradas:**  
+  Configura cuántas publicaciones se mostrarán por página en tu sitio.  
+  - Usa **Tab** para llegar al campo correspondiente e ingresa un número.
+
+Cuando termines, navega hasta el botón **Guardar cambios** y presiona **Enter**.
+
+---
+
+En resumen, los ajustes básicos de WordPress son fundamentales para personalizar tu sitio y hacerlo funcional. Dedica unos minutos a configurarlos correctamente y tu sitio estará listo para comenzar.
+
+=======
 - **Formato de fecha y hora:**  
   - Usa **Tab** para seleccionar entre los formatos de fecha y hora predefinidos.  
   - Pulsa **Enter** para confirmar tu elección.
@@ -75,3 +116,5 @@ Los enlaces permanentes afectan cómo se muestran las URL de tu sitio. Esto es i
 - Si tienes dudas durante el proceso, usa el lector de pantalla para obtener detalles sobre cada campo o ajuste.
 
 En resumen, los ajustes básicos de WordPress son fundamentales para personalizar tu sitio y hacerlo funcional. Dedica unos minutos a configurarlos correctamente y tu sitio estará listo para comenzar.
+
+>>>>>>> 1e4b8b4d728237c39896c4569aee33897517e145
