@@ -7,17 +7,17 @@ permalink: conceptos-basicos-de-wordpress
 ### En esta página:
 
 - [Introducción](#introduccion)
-- [Parte pública y parte de administración en WordPress](#parte-publica-y-parte-de-administracion-en-wordpress)
+- [Parte pública y parte de administración en WordPress](#parte-pública-y-parte-de-administración-en-wordpress)
 - [Temas](#temas)
 - [Plugins](#plugins)
-- [Páginas](#paginas)
+- [Páginas](#páginas)
 - [Entradas](#entradas)
-- [Categorías y etiquetas](#categorias-y-etiquetas)
-- [Menús](#menus)
+- [Categorías y etiquetas](#categorías-y-etiquetas)
+- [Menús](#menús)
 - [Widgets](#widgets)
 - [Editores de contenido](#editores-de-contenido)
 - [Personalizador](#personalizador)
-- [Área de administración](#area-de-administracion)
+- [Área de administración](#área-de-administración)
 
 ---
 

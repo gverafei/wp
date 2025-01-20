@@ -6,9 +6,9 @@ permalink: que-es-wordpress
 
 ### En esta página:
 
-- [¿Qué es WordPress?](#que-es-wordpress)
-- [¿Para qué sirve WordPress?](#para-que-sirve-wordpress)
-- [Estadísticas de uso](#estadisticas-de-uso)
+- [¿Qué es WordPress?](#qué-es-wordpress)
+- [¿Para qué sirve WordPress?](#para-qué-sirve-wordpress)
+- [Estadísticas de uso](#estadísticas-de-uso)
 - [Ventajas de usar WordPress](#ventajas-de-usar-wordpress)
 
 ---
