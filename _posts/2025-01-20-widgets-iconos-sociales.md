@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo añadir widgets: widget de iconos sociales
+title: Cómo añadir widgets - widget de iconos sociales
 permalink: widgets-iconos-sociales
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ajustes de lectura: configurar la página inicial y las entradas
+title: Ajustes de lectura - configurar la página inicial y las entradas
 permalink: ajustes-lectura
 ---
 

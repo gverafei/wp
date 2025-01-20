@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gestión de medios: imágenes y archivos
+title: Gestión de medios - imágenes y archivos
 permalink: gestion-medios
 ---
 
