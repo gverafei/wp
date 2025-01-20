@@ -6,7 +6,7 @@ permalink: conceptos-basicos-de-wordpress
 
 ### En esta página:
 
-- [Introducción](#introduccion)
+- [Introducción](#introducción)
 - [Parte pública y parte de administración en WordPress](#parte-pública-y-parte-de-administración-en-wordpress)
 - [Temas](#temas)
 - [Plugins](#plugins)
