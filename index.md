@@ -43,13 +43,13 @@ layout: page
 ## Día 3: Formularios, widgets y buenas prácticas
 **Objetivo:** Implementar formularios de contacto, configurar widgets y aplicar buenas prácticas para contenido accesible.
 
-- [Cómo personalizar el menú principal](./personalizar-menu-principal) – 20 minutos  
-- [Cómo añadir widgets: widget de iconos sociales](./widgets-iconos-sociales) – 20 minutos  
+- [Cómo personalizar el menú principal](./personalizar-menu-principal) – 25 minutos  
+- [Cómo añadir widgets: widget de iconos sociales](./widgets-iconos-sociales) – 25 minutos  
 - [Acceso al personalizador y configuración básica](./acceso-personalizador) – 25 minutos  
 - [Agregar un nuevo plugin](./agregar-plugin) – 20 minutos  
-- [Buenas prácticas para crear contenido accesible](./buenas-practicas) – 20 minutos  
-- [Recursos útiles para aprender más sobre WordPress](./recursos-utiles) – 15 minutos  
-- [Cambios sugeridos al sitio actual](./cambios-sugeridos) – 20 minutos  
+- [Buenas prácticas para crear contenido accesible](./buenas-practicas) – 10 minutos  
+- [Recursos útiles para aprender más sobre WordPress](./recursos-utiles) – 5 minutos  
+- [Cambios sugeridos al sitio actual](./cambios-sugeridos) – 5 minutos  
 
 **Trabajo después del curso:**  
 - Aplica los conocimientos adquiridos para gestionar y actualizar regularmente el sitio web utilizando WordPress. Practica la creación y publicación de contenido, como páginas, avisos y multimedia, para mantener la información relevante y accesible para tu público.
