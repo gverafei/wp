@@ -46,10 +46,15 @@ layout: page
 - [Cómo añadir widgets: widget de iconos sociales](./widgets-iconos-sociales)
 - [Acceso al personalizador y configuración básica](./acceso-personalizador)
 - [Agregar un nuevo plugin](./agregar-plugin)
-- [Uso de formularios de contacto con WP Forms](./formularios-wpforms)
 - [Buenas prácticas para crear contenido accesible](./buenas-practicas)
 - [Recursos útiles para aprender más sobre WordPress](./recursos-utiles)
 - [Cambios sugeridos al sitio actual](./cambios-sugeridos)
 
 **Tarea práctica:**
 - Revisa de nuevo los contenidos del curso y práctica su uso para que te familiarices con la plataforma.
+
+**Prácticas opcionales:**
+Estas configuraciones no son particularmente amigables con el teclado, por lo que es posible requieran la participación de una persona normovisual.
+
+- [Uso de formularios de contacto con WP Forms (opcional)](./formularios-wpforms)
+- [Uso de formularios de contacto con Contact Form 7 (opcional)](./formularios-contactform)
