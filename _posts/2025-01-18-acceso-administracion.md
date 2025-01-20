@@ -20,6 +20,8 @@ Para este curso, trabajaremos con el siguiente sitio de prácticas:
 
 ### Acceso a la administración en cualquier WordPress
 
+![Página de inicio de sesión de WordPress donde se solicitan la "Nombre de usuario o dirección de correo" y la "Contraseña" de acceso.](images/acceso-administracion.png)
+
 Si tienes acceso a cualquier sitio de WordPress, puedes llegar al área de administración simplemente añadiendo `/wp-admin` al final de la URL del sitio. Por ejemplo:
 - Si la URL de tu sitio es `https://ejemplo.com`, el área de administración será:  
   `https://ejemplo.com/wp-admin`.
