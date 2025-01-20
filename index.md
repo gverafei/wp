@@ -17,6 +17,7 @@ layout: page
 - [Cómo crear una página básica](./crear-pagina-basica)
 
 **Tarea práctica:**
+- Navegar en menu lateral para familiarizarse con las opciones.
 - Crear una nueva página en su sitio con el título "Sobre nosotros" y agregar un breve contenido.
 
 ---
@@ -26,25 +27,28 @@ layout: page
 
 - [Cómo crear categorías](./crear-categorias)
 - [Cómo crear y editar una entrada](./crear-editar-entrada)
-- [Cómo personalizar el menú principal](./personalizar-menu-principal)
-- [Gestión de medios: imágenes y archivos](./gestion-medios)
 - [Cómo crear una galería de imágenes](./crear-galeria)
+- [Gestión de medios: imágenes y archivos](./gestion-medios)
+- [Ajustes de lectura: configurar la página inicial y las entradas](./ajustes-lectura)
 
 **Tarea práctica:**
-- Crear al menos tres categorías que reflejen el contenido del sitio (por ejemplo, "Actividades", "Noticias", "Historia").
+- Crear una categoría que refleje el contenido a crear (por ejemplo, "Actividades", "Noticias", "Historia").
 - Crear una entrada en la categoría adecuada con texto descriptivo y una imagen.
-- Crear una galería de imágenes para complementar la entrada.
+- Crear una galería de imágenes al final del contenido para complementar la entrada.
+- Agrega la página de entradas del sitio y llamada "Avisos".
 
 ---
 
 ## Día 3: Formularios, widgets y buenas prácticas
 **Objetivo:** Implementar formularios de contacto, configurar widgets y aplicar buenas prácticas para contenido accesible.
 
-- [Uso de formularios de contacto con WP Forms](./formularios-wpforms)
+- [Cómo personalizar el menú principal](./personalizar-menu-principal)
 - [Cómo añadir widgets: widget de iconos sociales](./widgets-iconos-sociales)
+- [Acceso al personalizador y configuración básica](./acceso-personalizador)
+- [Agregar un nuevo plugin](./agregar-plugin)
+- [Uso de formularios de contacto con WP Forms](./formularios-wpforms)
 - [Buenas prácticas para crear contenido accesible](./buenas-practicas)
 - [Recursos útiles para aprender más sobre WordPress](./recursos-utiles)
 
 **Tarea práctica:**
-- Crear un formulario de contacto con campos básicos (nombre, correo, mensaje) y añadirlo a una página.
-- Añadir el widget de iconos sociales en la barra lateral o pie de página, usando los enlaces de las redes sociales del sitio.
+- Revisa de nuevo los contenidos del curso y práctica su uso para que te familiarices con la plataforma.

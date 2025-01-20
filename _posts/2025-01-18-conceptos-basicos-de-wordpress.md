@@ -6,6 +6,20 @@ permalink: conceptos-basicos-de-wordpress
 
 WordPress es una plataforma que permite crear y gestionar sitios web de forma sencilla. Para usar WordPress, es importante conocer algunos conceptos básicos que te ayudarán a entender cómo funciona y cómo interactuar con las distintas herramientas disponibles.
 
+### Parte pública y parte de administración en WordPress
+
+WordPress tiene dos secciones principales que cumplen diferentes funciones:
+
+- **La parte pública:**  
+  Es la sección visible para los visitantes de tu sitio web. Su diseño y estructura dependen del tema seleccionado, que define cómo se presenta el contenido, como las páginas, entradas, menús y widgets.  
+  Ejemplo: Si el tema incluye una barra lateral, puede mostrar widgets como enlaces a redes sociales o un calendario.
+
+- **La parte de administración:**  
+  Es donde gestionas todo el contenido y las configuraciones de tu sitio. A diferencia de la parte pública, la funcionalidad base de la administración no cambia. Sin embargo, puedes personalizarla y ampliarla añadiendo plugins que ofrezcan nuevas opciones o herramientas específicas.  
+  Ejemplo: Puedes instalar un plugin para añadir un formulario de contacto.
+
+La combinación de estas dos partes hace que WordPress sea una plataforma flexible y fácil de usar tanto para crear como para administrar sitios web.
+
 ### Temas
 
 Un tema controla el diseño visual de tu sitio web. Esto incluye la distribución de los elementos en la pantalla, colores, fuentes y otros aspectos visuales.  
