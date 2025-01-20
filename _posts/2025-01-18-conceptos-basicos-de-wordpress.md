@@ -4,8 +4,6 @@ title: Conceptos básicos de WordPress
 permalink: conceptos-basicos-de-wordpress
 ---
 
-## Conceptos básicos de WordPress
-
 WordPress es una plataforma que permite crear y gestionar sitios web de forma sencilla. Para usar WordPress, es importante conocer algunos conceptos básicos que te ayudarán a entender cómo funciona y cómo interactuar con las distintas herramientas disponibles.
 
 ### Temas
@@ -47,6 +45,19 @@ Los menús permiten organizar y presentar las páginas, entradas o enlaces perso
 Los widgets son pequeños bloques de contenido que se pueden añadir a áreas específicas de tu sitio, como la barra lateral o el pie de página.  
 - Por ejemplo, puedes usar un widget para mostrar un formulario de suscripción, un calendario de actividades o los íconos de redes sociales.  
 - En "Amor sin fronteras", los widgets podrían incluir enlaces a las redes sociales de la fundación o información de contacto.
+
+### Editores de contenido
+
+- **Editor clásico (TinyMCE):**  
+  Este editor es más accesible para usuarios ciegos, ya que tiene una interfaz sencilla y compatible con teclados y lectores de pantalla. Ofrece una experiencia intuitiva para crear y editar contenido.
+
+- **Editor Gutenberg:**  
+  Este editor introduce bloques para estructurar el contenido, pero no es tan amigable para usuarios ciegos debido a su enfoque visual y dinámico. Se recomienda evitar su uso cuando se trabaja con lectores de pantalla.
+
+### Personalizador
+
+El personalizador permite realizar cambios visuales en el sitio, como modificar colores, fuentes y encabezados.  
+- Aunque es una herramienta poderosa, no es completamente accesible para usuarios ciegos, ya que muchas funciones dependen de elementos visuales y no están bien adaptadas para el uso exclusivo del teclado.
 
 ### Área de administración
 

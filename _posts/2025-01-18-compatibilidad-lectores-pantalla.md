@@ -4,8 +4,6 @@ title: Compatibilidad con lectores de pantalla
 permalink: compatibilidad-lectores-pantalla
 ---
 
-## Compatibilidad del panel de administración de WordPress con lectores de pantalla
-
 El panel de administración de WordPress está diseñado para ser accesible y funcional con lectores de pantalla como NVDA y JAWS. Sin embargo, aunque tiene elementos que facilitan su uso, también presenta ciertas limitaciones. A continuación, se describen los puntos clave:
 
 ### Elementos accesibles

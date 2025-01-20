@@ -4,8 +4,6 @@ title: ¿Qué es WordPress y para qué sirve?
 permalink: que-es-wordpress
 ---
 
-## ¿Qué es WordPress?
-
 WordPress es un gestor de contenidos que usan millones de sitios web en todo el mundo, desde pequeños blogs a grandes webs.
 
 Su gran popularidad radica en que es una plataforma sencilla pero muy potente Desde su lanzamiento en 2003, ha evolucionado de una plataforma de blogs a una herramienta versátil utilizada para desarrollar diversos tipos de sitios web, incluyendo portales, tiendas en línea, sitios de escuelas, sitios corporativos, entre otros.
