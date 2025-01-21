@@ -13,7 +13,7 @@ permalink: ajustes-basicos
 
 ---
 
-## Introducción
+### Introducción
 
 En esta sección aprenderás a configurar los ajustes básicos de tu sitio web en WordPress. Estos ajustes son esenciales para personalizar y optimizar tu sitio de acuerdo con las necesidades de tu proyecto.
 

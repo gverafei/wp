@@ -14,13 +14,13 @@ permalink: formularios-contactform
 
 ---
 
-## Introducción
+### Introducción
 
 **Contact Form 7** es un plugin versátil que permite crear y gestionar formularios de contacto en tu sitio WordPress. Esta guía te mostrará cómo instalar, configurar y utilizar este plugin de manera accesible.
 
 ---
 
-## Instalar y activar Contact Form 7
+### Instalar y activar Contact Form 7
 
 1. **Accede a la sección de plugins:**  
    - Desde la barra lateral izquierda, utiliza **Tab** o las flechas para navegar hasta **Plugins**.  
@@ -39,7 +39,7 @@ permalink: formularios-contactform
 
 ---
 
-## Configurar un formulario de contacto
+### Configurar un formulario de contacto
 
 1. **Acceder a Contact Form 7:**  
    - Desde la barra lateral izquierda, utiliza **Tab** o las flechas para navegar hasta **Contact** y pulsa **Enter**.  
@@ -59,7 +59,7 @@ permalink: formularios-contactform
 
 ---
 
-## Insertar el formulario en una página
+### Insertar el formulario en una página
 
 1. **Copiar el shortcode:**  
    - Desde la pantalla de **Contact Forms**, navega con **Tab** hasta el campo que contiene el shortcode del formulario (por ejemplo: `[contact-form-7 id="123" title="Contact Form 1"]`).  
@@ -78,7 +78,7 @@ permalink: formularios-contactform
 
 ---
 
-## Consejos para formularios accesibles
+### Consejos para formularios accesibles
 
 - **Proporciona etiquetas claras:** Asegúrate de que cada campo tenga una etiqueta descriptiva para que los usuarios sepan qué información ingresar.  
 - **Incluye un mensaje de confirmación:** Configura un mensaje claro para que los usuarios sepan que su formulario se envió correctamente.  

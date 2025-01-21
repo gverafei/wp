@@ -17,7 +17,7 @@ permalink: gestion-medios
 
 ---
 
-## Introducción
+### Introducción
 
 La biblioteca de medios de WordPress es donde se almacenan todas las imágenes, videos, documentos y otros archivos que subes a tu sitio. Aquí aprenderás a gestionar tus medios utilizando el teclado y un lector de pantalla.
 

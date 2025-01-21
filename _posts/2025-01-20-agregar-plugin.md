@@ -14,7 +14,7 @@ permalink: agregar-plugin
 
 ---
 
-## Introducción
+### Introducción
 
 Los plugins en WordPress permiten añadir o modificar funcionalidades de tu sitio. En este tutorial aprenderás a instalar, activar y configurar el plugin **"Disable Comments"**, además de cómo activar o desactivar otros plugins ya instalados.
 

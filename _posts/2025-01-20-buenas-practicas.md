@@ -17,7 +17,7 @@ permalink: buenas-practicas
 
 ---
 
-## Introducción
+### Introducción
 
 Cuando creas contenido en WordPress, es fundamental priorizar la claridad y la organización. Estas prácticas están diseñadas para garantizar que el contenido sea accesible y útil, tanto para lectores con discapacidades visuales como para quienes usan lectores de pantalla.
 

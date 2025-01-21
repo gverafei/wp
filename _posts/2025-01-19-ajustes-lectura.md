@@ -17,7 +17,7 @@ permalink: ajustes-lectura
 
 ---
 
-## Introducción
+### Introducción
 
 En WordPress, puedes elegir qué contenido mostrar en la página inicial de tu sitio y cómo gestionar las entradas de tu blog. Este tutorial incluye cómo crear una página vacía para las entradas y cómo configurarla en los ajustes de lectura.
 

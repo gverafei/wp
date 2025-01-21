@@ -13,13 +13,13 @@ permalink: recursos-utiles
 
 ---
 
-## Introducción
+### Introducción
 
 WordPress es una herramienta poderosa con una comunidad activa que ofrece muchos recursos para seguir aprendiendo. Aquí encontrarás una lista de sitios, guías y comunidades que te ayudarán a mejorar tus habilidades.
 
 ---
 
-## Guías y tutoriales
+### Guías y tutoriales
 
 1. **[Documentación oficial de WordPress](https://wordpress.org/documentation/):**  
    La fuente principal de información sobre todas las funciones de WordPress, desde los conceptos básicos hasta temas avanzados.
@@ -35,7 +35,7 @@ WordPress es una herramienta poderosa con una comunidad activa que ofrece muchos
 
 ---
 
-## Recursos de accesibilidad en WordPress
+### Recursos de accesibilidad en WordPress
 
 1. **[Accesibilidad en WordPress](https://make.wordpress.org/accessibility/):**  
    Este equipo de WordPress se enfoca en mejorar la accesibilidad de la plataforma y proporciona guías útiles.
@@ -45,7 +45,7 @@ WordPress es una herramienta poderosa con una comunidad activa que ofrece muchos
 
 ---
 
-## Blogs y canales recomendados
+### Blogs y canales recomendados
 
 1. **[WPBeginner](https://www.wpbeginner.com/):**  
    Un blog enfocado en ayudar a los principiantes a aprender WordPress de manera sencilla.

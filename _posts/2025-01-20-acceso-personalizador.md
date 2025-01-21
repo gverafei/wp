@@ -15,7 +15,7 @@ permalink: acceso-personalizador
 
 ---
 
-## Introducción
+### Introducción
 
 El personalizador de WordPress es una herramienta que permite realizar cambios visuales en tu sitio web, como modificar colores, fuentes, y la imagen de fondo del tema. Aunque ofrece muchas opciones, es importante destacar que la mayoría de estas configuraciones solo necesitan ajustarse la primera vez que se configura el sitio.
 

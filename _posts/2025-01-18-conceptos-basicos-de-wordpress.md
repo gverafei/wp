@@ -21,7 +21,7 @@ permalink: conceptos-basicos-de-wordpress
 
 ---
 
-## Introducción
+### Introducción
 
 WordPress es una plataforma que permite crear y gestionar sitios web de forma sencilla. Para usar WordPress, es importante conocer algunos conceptos básicos que te ayudarán a entender cómo funciona y cómo interactuar con las distintas herramientas disponibles.
 

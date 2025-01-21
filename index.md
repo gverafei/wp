@@ -3,6 +3,14 @@ title: Inicio
 layout: page
 ---
 
+### En esta página:
+
+- [Día 1: Introducción y primeros pasos](#día-1-introducción-y-primeros-pasos)
+- [Día 2: Gestión de contenido y personalización](#día-2-gestión-de-contenido-y-personalización)
+- [Día 3: Formularios, widgets y buenas prácticas](#día-3-formularios-widgets-y-buenas-prácticas)
+
+---
+
 ## Día 1: Introducción y primeros pasos
 **Objetivo:** Familiarizarse con WordPress, explorar el sitio actual y aprender las bases para trabajar en la plataforma, incluyendo navegación accesible, configuración básica y creación de páginas.
 
