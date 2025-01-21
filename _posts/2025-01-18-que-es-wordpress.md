@@ -13,7 +13,7 @@ permalink: que-es-wordpress
 
 ---
 
-## ¿Qué es WordPress?
+## Introducción
 
 WordPress es un gestor de contenidos que usan millones de sitios web en todo el mundo, desde pequeños blogs a grandes webs.
 

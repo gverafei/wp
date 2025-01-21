@@ -14,6 +14,8 @@ permalink: widgets-iconos-sociales
 
 ---
 
+## Introducción
+
 Los widgets en WordPress son bloques que permiten añadir contenido o funcionalidades adicionales a tu sitio, como enlaces, formularios o iconos sociales. En esta guía aprenderás cómo añadir un widget de iconos sociales para facilitar el acceso a tus redes.
 
 ### Acceder a la sección de widgets

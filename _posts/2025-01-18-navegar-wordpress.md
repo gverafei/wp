@@ -18,6 +18,8 @@ permalink: navegar-wordpress
 
 ---
 
+## Introducción
+
 El panel de administración de WordPress está diseñado para permitir una navegación eficiente utilizando el teclado, lo que lo hace accesible para usuarios ciegos que utilizan lectores de pantalla. A continuación, te explicamos cómo está organizado el panel y cómo desplazarte por sus elementos.
 
 ### Estructura del panel de administración

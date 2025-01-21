@@ -14,7 +14,7 @@ permalink: formularios-contactform
 
 ---
 
-## Uso de formularios de contacto con Contact Form 7 (opcional)
+## Introducción
 
 **Contact Form 7** es un plugin versátil que permite crear y gestionar formularios de contacto en tu sitio WordPress. Esta guía te mostrará cómo instalar, configurar y utilizar este plugin de manera accesible.
 

@@ -13,6 +13,8 @@ permalink: recursos-utiles
 
 ---
 
+## Introducción
+
 WordPress es una herramienta poderosa con una comunidad activa que ofrece muchos recursos para seguir aprendiendo. Aquí encontrarás una lista de sitios, guías y comunidades que te ayudarán a mejorar tus habilidades.
 
 ---

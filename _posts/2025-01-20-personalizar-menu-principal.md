@@ -18,6 +18,8 @@ permalink: personalizar-menu-principal
 
 ---
 
+## Introducción
+
 El menú principal en WordPress permite organizar y mostrar enlaces importantes de tu sitio, como páginas, entradas o enlaces personalizados. Aquí aprenderás a personalizar el menú utilizando el teclado y el área de administración.
 
 ### Acceder a la sección de menús

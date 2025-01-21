@@ -15,6 +15,8 @@ permalink: crear-editar-entrada
 
 ---
 
+## Introducción
+
 En WordPress, las entradas son ideales para publicar contenido dinámico como noticias, actualizaciones o artículos. Aquí aprenderás cómo crear y editar entradas en el editor clásico.
 
 ### Acceder a la sección de entradas

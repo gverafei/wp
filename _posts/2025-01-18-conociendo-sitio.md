@@ -15,6 +15,8 @@ permalink: conociendo-sitio
 
 ---
 
+## Introducción
+
 El sitio web de "Amor sin fronteras" está estructurado para proporcionar información clara y accesible sobre la organización y sus actividades. A continuación, se describen las principales secciones del sitio:
 
 ### Menú principal

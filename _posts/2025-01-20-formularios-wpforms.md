@@ -15,6 +15,8 @@ permalink: formularios-wpforms
 
 ---
 
+## Introducción
+
 En esta guía aprenderás cómo navegar, editar y gestionar un formulario ya existente llamado **"Contacto"**, y cómo identificar en qué página está activo. Además, encontrarás instrucciones para crear un nuevo formulario y añadirlo a una página.
 
 ---

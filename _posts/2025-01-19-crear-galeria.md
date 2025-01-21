@@ -15,6 +15,8 @@ permalink: crear-galeria
 
 ---
 
+## Introducción
+
 Las galerías de imágenes en WordPress son útiles para mostrar múltiples fotos organizadas en un diseño atractivo. Este tutorial te guiará para crear una galería de imágenes utilizando únicamente el teclado y el editor clásico de WordPress.
 
 ### Acceder a la sección de entradas o páginas

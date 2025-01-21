@@ -14,6 +14,8 @@ permalink: crear-categorias
 
 ---
 
+## Introducción
+
 Las categorías en WordPress te ayudan a organizar las entradas de tu sitio en grupos relacionados. Esto facilita que los visitantes encuentren contenido específico y mejora la navegación en el sitio web.
 
 ### Acceder a la sección de categorías

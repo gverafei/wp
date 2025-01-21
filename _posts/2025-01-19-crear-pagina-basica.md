@@ -15,6 +15,8 @@ permalink: crear-pagina-basica
 
 ---
 
+## Introducción
+
 En WordPress, las páginas son útiles para contenido estático, como "Acerca de nosotros", "Contacto" o "Servicios". A continuación, aprenderás cómo crear una página básica utilizando el editor clásico.
 
 ### Acceder a la sección de páginas
