@@ -11,7 +11,7 @@ layout: page
 
 ---
 
-## Día 1: Introducción y primeros pasos
+### Día 1: Introducción y primeros pasos
 **Objetivo:** Familiarizarse con WordPress, explorar el sitio actual y aprender las bases para trabajar en la plataforma, incluyendo navegación accesible, configuración básica y creación de páginas.
 
 - [¿Qué es WordPress y para qué sirve?](./que-es-wordpress) – 10 minutos  
@@ -31,7 +31,7 @@ layout: page
 
 ---
 
-## Día 2: Gestión de contenido y personalización
+### Día 2: Gestión de contenido y personalización
 **Objetivo:** Aprender a gestionar categorías, entradas, y personalizar el menú principal, adaptando el contenido al sitio "Amor sin fronteras".
 
 - [Cómo crear categorías](./crear-categorias) – 20 minutos  
@@ -48,7 +48,7 @@ layout: page
 
 ---
 
-## Día 3: Formularios, widgets y buenas prácticas
+### Día 3: Formularios, widgets y buenas prácticas
 **Objetivo:** Implementar formularios de contacto, configurar widgets y aplicar buenas prácticas para contenido accesible.
 
 - [Cómo personalizar el menú principal](./personalizar-menu-principal) – 25 minutos  
