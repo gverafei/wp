@@ -4,6 +4,17 @@ title: Acceso al personalizador e imagen de fondo
 permalink: acceso-personalizador
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Acceder al personalizador](#acceder-al-personalizador)
+- [Configuración básica en el personalizador](#configuración-básica-en-el-personalizador)
+  - [Imagen de fondo](#imagen-de-fondo)
+- [Guardar los cambios](#guardar-los-cambios)
+- [Estructura del sitio](#estructura-del-sitio)
+
+---
+
 El personalizador de WordPress es una herramienta que permite realizar cambios visuales en tu sitio web, como modificar colores, fuentes, y la imagen de fondo del tema. Aunque ofrece muchas opciones, es importante destacar que la mayoría de estas configuraciones solo necesitan ajustarse la primera vez que se configura el sitio.
 
 ## Acceder al personalizador

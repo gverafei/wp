@@ -4,6 +4,16 @@ title: Cómo crear categorías
 permalink: crear-categorias
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Acceder a la sección de categorías](#acceder-a-la-sección-de-categorías)
+- [Crear una nueva categoría](#crear-una-nueva-categoría)
+- [Ver las categorías existentes](#ver-las-categorías-existentes)
+- [Editar o eliminar categorías](#editar-o-eliminar-categorías)
+
+---
+
 Las categorías en WordPress te ayudan a organizar las entradas de tu sitio en grupos relacionados. Esto facilita que los visitantes encuentren contenido específico y mejora la navegación en el sitio web.
 
 ### Acceder a la sección de categorías

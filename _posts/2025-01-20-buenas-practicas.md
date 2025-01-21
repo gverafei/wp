@@ -4,6 +4,19 @@ title: Buenas prácticas para crear contenido accesible
 permalink: buenas-practicas
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Uso adecuado de encabezados](#uso-adecuado-de-encabezados)
+- [Descripciones claras en enlaces](#descripciones-claras-en-enlaces)
+- [Uso del texto alternativo en imágenes](#uso-del-texto-alternativo-en-imágenes)
+- [Listas y tablas para organizar contenido](#listas-y-tablas-para-organizar-contenido)
+- [Formularios accesibles](#formularios-accesibles)
+- [Navegación del contenido](#navegación-del-contenido)
+- [Consejos adicionales](#consejos-adicionales)
+
+---
+
 Cuando creas contenido en WordPress, es fundamental priorizar la claridad y la organización. Estas prácticas están diseñadas para garantizar que el contenido sea accesible y útil, tanto para lectores con discapacidades visuales como para quienes usan lectores de pantalla.
 
 ---

@@ -4,6 +4,17 @@ title: Cómo crear y editar una entrada
 permalink: crear-editar-entrada
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Acceder a la sección de entradas](#acceder-a-la-sección-de-entradas)
+- [Crear una nueva entrada](#crear-una-nueva-entrada)
+- [Editar una entrada existente](#editar-una-entrada-existente)
+- [Publicar o guardar como borrador](#publicar-o-guardar-como-borrador)
+- [Consejos finales](#consejos-finales)
+
+---
+
 En WordPress, las entradas son ideales para publicar contenido dinámico como noticias, actualizaciones o artículos. Aquí aprenderás cómo crear y editar entradas en el editor clásico.
 
 ### Acceder a la sección de entradas

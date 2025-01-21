@@ -4,6 +4,17 @@ title: Cómo crear una galería de imágenes
 permalink: crear-galeria
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Acceder a la sección de entradas o páginas](#acceder-a-la-sección-de-entradas-o-páginas)
+- [Insertar una galería de imágenes](#insertar-una-galería-de-imágenes)
+- [Editar una galería existente](#editar-una-galería-existente)
+- [Publicar o actualizar la entrada/página](#publicar-o-actualizar-la-entrada-página)
+- [Consejos para galerías accesibles](#consejos-para-galerías-accesibles)
+
+---
+
 Las galerías de imágenes en WordPress son útiles para mostrar múltiples fotos organizadas en un diseño atractivo. Este tutorial te guiará para crear una galería de imágenes utilizando únicamente el teclado y el editor clásico de WordPress.
 
 ### Acceder a la sección de entradas o páginas

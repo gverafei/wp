@@ -4,6 +4,17 @@ title: Uso de formularios de contacto con WP Forms
 permalink: formularios-wpforms
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Acceder al formulario existente](#acceder-al-formulario-existente)
+- [Editar el formulario "Contacto"](#editar-el-formulario-contacto)
+- [Identificar en qué página está activo el formulario](#identificar-en-qué-página-está-activo-el-formulario)
+- [Crear un nuevo formulario y añadirlo a una página](#crear-un-nuevo-formulario-y-añadirlo-a-una-página)
+- [Consejos para formularios accesibles](#consejos-para-formularios-accesibles)
+
+---
+
 En esta guía aprenderás cómo navegar, editar y gestionar un formulario ya existente llamado **"Contacto"**, y cómo identificar en qué página está activo. Además, encontrarás instrucciones para crear un nuevo formulario y añadirlo a una página.
 
 ---

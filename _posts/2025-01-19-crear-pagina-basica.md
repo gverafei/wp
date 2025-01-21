@@ -4,6 +4,17 @@ title: Cómo crear una página básica
 permalink: crear-pagina-basica
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Acceder a la sección de páginas](#acceder-a-la-sección-de-páginas)
+- [Crear una nueva página](#crear-una-nueva-página)
+- [Configuración adicional (opcional)](#configuración-adicional-opcional)
+- [Publicar la página](#publicar-la-página)
+- [Ver la página publicada](#ver-la-página-publicada)
+
+---
+
 En WordPress, las páginas son útiles para contenido estático, como "Acerca de nosotros", "Contacto" o "Servicios". A continuación, aprenderás cómo crear una página básica utilizando el editor clásico.
 
 ### Acceder a la sección de páginas

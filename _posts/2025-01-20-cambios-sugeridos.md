@@ -4,6 +4,21 @@ title: Cambios sugeridos al sitio actual
 permalink: cambios-sugeridos
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Plugins](#plugins)
+  - [Desactivar](#desactivar)
+  - [Borrar](#borrar)
+  - [Agregar y activar](#agregar-y-activar)
+- [Organización del contenido](#organización-del-contenido)
+  - [Crear una página de entradas](#crear-una-página-de-entradas)
+  - [Menú superior](#menú-superior)
+- [Uso de la galería de WordPress](#uso-de-la-galería-de-wordpress)
+- [Página inicial](#página-inicial)
+
+---
+
 ## Cambios sugeridos al sitio actual
 
 Este documento presenta recomendaciones para optimizar el sitio web actual y mejorar su accesibilidad y funcionalidad. Estos cambios están diseñados pensando en la facilidad de uso para personas que navegan con lectores de pantalla.

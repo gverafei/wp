@@ -4,6 +4,19 @@ title: Gestión de medios - imágenes y archivos
 permalink: gestion-medios
 ---
 
+### En esta página:
+
+- [Introducción](#introducción)
+- [Acceder a la biblioteca de medios](#acceder-a-la-biblioteca-de-medios)
+- [Subir archivos a la biblioteca](#subir-archivos-a-la-biblioteca)
+- [Navegar por los medios existentes](#navegar-por-los-medios-existentes)
+- [Editar información de los medios](#editar-información-de-los-medios)
+- [Insertar medios en entradas o páginas](#insertar-medios-en-entradas-o-páginas)
+- [Eliminar archivos de la biblioteca](#eliminar-archivos-de-la-biblioteca)
+- [Consejos para una gestión eficiente](#consejos-para-una-gestión-eficiente)
+
+---
+
 La biblioteca de medios de WordPress es donde se almacenan todas las imágenes, videos, documentos y otros archivos que subes a tu sitio. Aquí aprenderás a gestionar tus medios utilizando el teclado y un lector de pantalla.
 
 ### Acceder a la biblioteca de medios

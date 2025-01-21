@@ -4,6 +4,16 @@ title: Cómo añadir widgets - widget de iconos sociales
 permalink: widgets-iconos-sociales
 ---
 
+### En esta página:
+
+- [Acceder a la sección de widgets](#acceder-a-la-sección-de-widgets)
+- [Añadir el widget de iconos sociales](#añadir-el-widget-de-iconos-sociales)
+- [Guardar los cambios](#guardar-los-cambios)
+- [Verificar el widget en tu sitio](#verificar-el-widget-en-tu-sitio)
+- [Editar o eliminar el widget](#editar-o-eliminar-el-widget)
+
+---
+
 Los widgets en WordPress son bloques que permiten añadir contenido o funcionalidades adicionales a tu sitio, como enlaces, formularios o iconos sociales. En esta guía aprenderás cómo añadir un widget de iconos sociales para facilitar el acceso a tus redes.
 
 ### Acceder a la sección de widgets
