@@ -4,7 +4,7 @@ title: Cambios sugeridos al sitio actual
 permalink: cambios-sugeridos
 ---
 
-### En esta página:
+## En esta página:
 
 - [Introducción](#introducción)
 - [Plugins](#plugins)
@@ -19,7 +19,7 @@ permalink: cambios-sugeridos
 
 ---
 
-### Introducción
+## Introducción
 
 Este documento presenta recomendaciones para optimizar el sitio web actual y mejorar su accesibilidad y funcionalidad. Estos cambios están diseñados pensando en la facilidad de uso para personas que navegan con lectores de pantalla.
 

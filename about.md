@@ -4,7 +4,7 @@ layout: page
 permalink: about
 ---
 
-### 20, 22 y 24 de enero 2025
+## 20, 22 y 24 de enero 2025
 
 > **Taller 7-9pm**
 

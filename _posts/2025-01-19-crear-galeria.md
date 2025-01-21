@@ -4,7 +4,7 @@ title: Cómo crear una galería de imágenes
 permalink: crear-galeria
 ---
 
-### En esta página:
+## En esta página:
 
 - [Introducción](#introducción)
 - [Acceder a la sección de entradas o páginas](#acceder-a-la-sección-de-entradas-o-páginas)
@@ -15,16 +15,16 @@ permalink: crear-galeria
 
 ---
 
-### Introducción
+## Introducción
 
 Las galerías de imágenes en WordPress son útiles para mostrar múltiples fotos organizadas en un diseño atractivo. Este tutorial te guiará para crear una galería de imágenes utilizando únicamente el teclado y el editor clásico de WordPress.
 
-### Acceder a la sección de entradas o páginas
+## Acceder a la sección de entradas o páginas
 
 1. Desde la barra lateral izquierda del área de administración, utiliza **Tab** o las flechas para navegar hasta **Entradas** o **Páginas**, dependiendo de dónde deseas añadir la galería.  
 2. Pulsa **Enter** para expandir el menú y selecciona **Añadir nueva** o abre una entrada/página existente desde **Todas las entradas** o **Todas las páginas**.
 
-### Insertar una galería de imágenes
+## Insertar una galería de imágenes
 
 1. **Posiciona el cursor en el contenido:**  
    - Usa **Tab** para moverte al área de contenido del editor.  
@@ -52,7 +52,7 @@ Las galerías de imágenes en WordPress son útiles para mostrar múltiples foto
    - Usa **Tab** para llegar al botón **Insertar galería** y pulsa **Enter**.  
    - La galería se insertará en el área de contenido.
 
-### Editar una galería existente
+## Editar una galería existente
 
 1. **Selecciona la galería en el contenido:**  
    - Usa **Tab** para navegar al área donde está la galería.  
@@ -65,7 +65,7 @@ Las galerías de imágenes en WordPress son útiles para mostrar múltiples foto
 3. **Actualizar la galería:**  
    - Usa **Tab** para llegar al botón **Actualizar galería** y pulsa **Enter** para guardar los cambios.
 
-### Publicar o actualizar la entrada/página
+## Publicar o actualizar la entrada/página
 
 1. Una vez insertada la galería, usa **Tab** para navegar al botón **Publicar** (o **Actualizar** si estás editando).  
 2. Pulsa **Enter** para guardar los cambios y hacer la galería visible en tu sitio web.

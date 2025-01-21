@@ -4,7 +4,7 @@ title: Cómo personalizar el menú principal
 permalink: personalizar-menu-principal
 ---
 
-### En esta página:
+## En esta página:
 
 - [Introducción](#introducción)
 - [Acceder a la sección de menús](#acceder-a-la-sección-de-menús)
@@ -18,11 +18,11 @@ permalink: personalizar-menu-principal
 
 ---
 
-### Introducción
+## Introducción
 
 El menú principal en WordPress permite organizar y mostrar enlaces importantes de tu sitio, como páginas, entradas o enlaces personalizados. Aquí aprenderás a personalizar el menú utilizando el teclado y el área de administración.
 
-### Acceder a la sección de menús
+## Acceder a la sección de menús
 
 1. Desde la barra lateral izquierda del área de administración, utiliza **Tab** o las flechas para navegar hasta **Apariencia**.  
 2. Pulsa **Enter** para expandir el menú.  

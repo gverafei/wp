@@ -4,7 +4,7 @@ title: Ajustes básicos del sitio web
 permalink: ajustes-basicos
 ---
 
-### En esta página:
+## En esta página:
 
 - [Introducción](#introducción)
 - [Acceder a los ajustes](#acceder-a-los-ajustes)
@@ -13,18 +13,18 @@ permalink: ajustes-basicos
 
 ---
 
-### Introducción
+## Introducción
 
 En esta sección aprenderás a configurar los ajustes básicos de tu sitio web en WordPress. Estos ajustes son esenciales para personalizar y optimizar tu sitio de acuerdo con las necesidades de tu proyecto.
 
-### Acceder a los ajustes
+## Acceder a los ajustes
 
 1. Desde la barra lateral izquierda del área de administración, utiliza las flechas del teclado para navegar hasta la opción **Ajustes**.  
 2. Pulsa **Enter** para expandir el submenú y selecciona una de las siguientes opciones para configurar aspectos específicos de tu sitio.
 
 ---
 
-### Configuración general
+## Configuración general
 
 En esta sección puedes realizar cambios básicos sobre la identidad del sitio:
 
@@ -51,7 +51,7 @@ Una vez realizados los cambios, pulsa **Tab** hasta llegar al botón **Guardar c
 
 ---
 
-### Lectura
+## Lectura
 
 Esta sección define cómo se muestra el contenido de tu sitio a los visitantes:
 

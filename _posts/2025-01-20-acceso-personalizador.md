@@ -4,18 +4,18 @@ title: Acceso al personalizador e imagen de fondo
 permalink: acceso-personalizador
 ---
 
-### En esta página:
+## En esta página:
 
 - [Introducción](#introducción)
 - [Acceder al personalizador](#acceder-al-personalizador)
 - [Configuración básica en el personalizador](#configuración-básica-en-el-personalizador)
-  - [Imagen de fondo](#imagen-de-fondo)
+- [Imagen de fondo](#imagen-de-fondo)
 - [Guardar los cambios](#guardar-los-cambios)
 - [Estructura del sitio](#estructura-del-sitio)
 
 ---
 
-### Introducción
+## Introducción
 
 El personalizador de WordPress es una herramienta que permite realizar cambios visuales en tu sitio web, como modificar colores, fuentes, y la imagen de fondo del tema. Aunque ofrece muchas opciones, es importante destacar que la mayoría de estas configuraciones solo necesitan ajustarse la primera vez que se configura el sitio.
 
@@ -27,9 +27,9 @@ El personalizador de WordPress es una herramienta que permite realizar cambios v
 
 ## Configuración básica en el personalizador
 
-El personalizador muestra un panel a la izquierda con varias opciones y una vista previa de tu sitio a la derecha. Algunas de las opciones más comunes son:
+El personalizador muestra un panel a la izquierda con varias opciones y una vista previa de tu sitio a la derecha.
 
-### Imagen de fondo
+## Imagen de fondo
 
 1. Navega hasta la opción **Identidad del sitio** en el panel del personalizador y pulsa **Enter**.  
 1. Navega hasta la opción **Imagen de fondo** en el panel del personalizador y pulsa **Enter**.  
@@ -43,7 +43,7 @@ El personalizador muestra un panel a la izquierda con varias opciones y una vist
 2. Pulsa **Enter** para guardar y aplicar los cambios al sitio.
 3. Para salir usa Tab para navegar hacia el botón Cerrar o X y pulsa **Enter**.
 
-### Estructura del sitio
+## Estructura del sitio
 
 1. Algunas opciones del personalizador, como la disposición de menús o widgets, pueden configurarse desde aquí.  
 2. Aunque están disponibles, estas configuraciones ya están predefinidas en el tema y no es necesario ajustarlas con frecuencia.

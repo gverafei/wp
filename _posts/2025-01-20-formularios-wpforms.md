@@ -4,7 +4,7 @@ title: Uso de formularios de contacto con WP Forms
 permalink: formularios-wpforms
 ---
 
-### En esta página:
+## En esta página:
 
 - [Introducción](#introducción)
 - [Acceder al formulario existente](#acceder-al-formulario-existente)
@@ -15,13 +15,13 @@ permalink: formularios-wpforms
 
 ---
 
-### Introducción
+## Introducción
 
 En esta guía aprenderás cómo navegar, editar y gestionar un formulario ya existente llamado **"Contacto"**, y cómo identificar en qué página está activo. Además, encontrarás instrucciones para crear un nuevo formulario y añadirlo a una página.
 
 ---
 
-### Acceder al formulario existente
+## Acceder al formulario existente
 
 1. **Navega a WP Forms:**  
    - Desde la barra lateral izquierda, utiliza **Tab** o las flechas para navegar hasta **WP Forms**.  
@@ -34,7 +34,7 @@ En esta guía aprenderás cómo navegar, editar y gestionar un formulario ya exi
 
 ---
 
-### Editar el formulario "Contacto"
+## Editar el formulario "Contacto"
 
 1. **Navegar por los campos:**  
    - Usa **Tab** para moverte entre los campos del formulario, como "Nombre", "Correo electrónico" y "Mensaje".  
@@ -53,7 +53,7 @@ En esta guía aprenderás cómo navegar, editar y gestionar un formulario ya exi
 
 ---
 
-### Identificar en qué página está activo el formulario
+## Identificar en qué página está activo el formulario
 
 1. Desde la lista de formularios en **WP Forms**, navega hasta el formulario **"Contacto"**.  
 2. Usa **Tab** para encontrar la columna llamada **Locations**.  
@@ -65,7 +65,7 @@ En esta guía aprenderás cómo navegar, editar y gestionar un formulario ya exi
 
 ---
 
-### Crear un nuevo formulario y añadirlo a una página
+## Crear un nuevo formulario y añadirlo a una página
 
 1. **Crear un nuevo formulario:**  
    - En **WP Forms**, selecciona la opción **Añadir nuevo** y pulsa **Enter**.  
@@ -82,7 +82,7 @@ En esta guía aprenderás cómo navegar, editar y gestionar un formulario ya exi
 
 ---
 
-### Consejos para formularios accesibles
+## Consejos para formularios accesibles
 
 - **Usa etiquetas claras:** Cada campo debe tener un nombre descriptivo.  
 - **Simplifica los formularios:** Limita la cantidad de campos para mejorar la experiencia del usuario.  

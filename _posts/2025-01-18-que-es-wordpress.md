@@ -4,7 +4,7 @@ title: ¿Qué es WordPress y para qué sirve?
 permalink: que-es-wordpress
 ---
 
-### En esta página:
+## En esta página:
 
 - [¿Qué es WordPress?](#qué-es-wordpress)
 - [¿Para qué sirve WordPress?](#para-qué-sirve-wordpress)
@@ -13,7 +13,7 @@ permalink: que-es-wordpress
 
 ---
 
-### Introducción
+## Introducción
 
 WordPress es un gestor de contenidos que usan millones de sitios web en todo el mundo, desde pequeños blogs a grandes webs.
 
