@@ -19,7 +19,7 @@ layout: page
 - [Compatibilidad con lectores de pantalla](./compatibilidad-lectores-pantalla) – 15 minutos  
 - [Conociendo los elementos del sitio "Amor sin fronteras"](./conociendo-sitio) – 10 minutos  
 - [Acceso al área de administración de WordPress](./acceso-administracion) – 10 minutos  
-- [Cómo navegar en WordPress usando el teclado](./navegar-wordpress) – 15 minutos  
+- [Cómo navegar en WordPress con teclado, NVDA y Jaws](./navegar-wordpress) – 15 minutos  
 - [Ajustes básicos del sitio web](./ajustes-basicos) – 20 minutos  
 - [Usuarios](./usuarios) – 15 minutos  
 - [Atajos de teclado del editor clásico TinyMCE](./shortcuts-tinymce) – 20 minutos  
