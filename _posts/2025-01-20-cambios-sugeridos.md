@@ -16,6 +16,7 @@ permalink: cambios-sugeridos
   - [Menú superior](#menú-superior)
 - [Uso de la galería de WordPress](#uso-de-la-galería-de-wordpress)
 - [Página inicial](#página-inicial)
+- [Cambios al tema](#cambios-al-tema)
 
 ---
 
