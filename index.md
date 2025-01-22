@@ -3,6 +3,11 @@ title: Inicio
 layout: page
 ---
 
+## Sitio web de prácticas del curso:
+
+- [URL de sitio web de prácticas](https://cursos.mexicocentral.cloudapp.azure.com/curso/){:target="_blank"}
+- [URL de sitio de administración web de prácticas](https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin){:target="_blank"}
+
 ## En esta página:
 
 - [Día 1: Introducción y primeros pasos](#día-1-introducción-y-primeros-pasos)
