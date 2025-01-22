@@ -91,8 +91,8 @@ Es probable que ya no sean necesarios.
 
 ## Cambios al tema
 
-- En el archivo **includes/core.php** en las líneas 228 y 230 se dibuja el título de la página sin encabezado: <code>\<div class="entry-title">\</div></code>. Sustituir por un encabezado: <code>h2</code>.
-- En el archivo **includes/core.php** en la línea 305 dibujan el título del sitio sin encabezado: <code>$heading_tag = ( is_front_page() || ( is_home() ) ) ? 'h1' : 'div';</code>. Sustituir que siempre sea un encabezado: <code>$heading_tag = 'h1';</code>.
+- En el archivo **includes/core.php** en las líneas 228 y 230 se dibuja el título de la página sin encabezado: <code>\<div class="entry-title">\</div></code>. Sustituir por un encabezado: <code>h2</code> con su respectivo <code>aria-description="Título de la página"</code>.
+- En el archivo **includes/core.php** en la línea 305 dibujan el título del sitio sin encabezado: <code>$heading_tag = ( is_front_page() || ( is_home() ) ) ? 'h1' : 'div';</code>. Sustituir que siempre sea un encabezado: <code>$heading_tag = 'h1';</code> con su respectivo <code>aria-description="Título del sitio"</code>.
 
 ---
 
