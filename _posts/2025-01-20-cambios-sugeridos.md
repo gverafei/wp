@@ -89,6 +89,10 @@ Es probable que ya no sean necesarios.
   - Mover el formulario de contacto a una página separada llamada **"Contáctanos"**.
 - Se recomienda modificar la imagen de fondo del sitio cada 2 o 3 meses para dar una sensación de actualización y dinamismo, así como publicar entradas con regularidad.
 
+## Cambios al tema
+
+- En el archivo inclues/core.php en las líneas 228 y 230 dibujan el título de la página sin encabezado: <code>\<div class="entry-title">\</div></code>. Sustituir por un encabezado <code>h2</code>.
+
 ---
 
 Estas sugerencias están diseñadas para hacer el sitio más accesible y funcional, mejorando la experiencia tanto para los administradores como para los visitantes.
