@@ -16,7 +16,7 @@ permalink: shortcuts-tinymce
 
 ## Introducción
 
-El editor clásico de WordPress, conocido como TinyMCE, permite a los usuarios realizar tareas de edición de manera eficiente mediante atajos de teclado. Estos atajos son especialmente útiles para usuarios que utilizan lectores de pantalla, ya que facilitan la navegación y edición sin necesidad de un ratón.
+El editor clásico de WordPress, conocido como TinyMCE, permite a los usuarios realizar tareas de edición de manera eficiente mediante atajos de teclado. Estos atajos son especialmente útiles para usuarios que utilizan lectores de pantalla, ya que facilitan la navegación y edición sin necesidad de un ratón. Funcionan en el modo predetermiando del editor llamado Visual, no son aplicales en el modo HTML del mismo.
 
 ## Navegación en el editor
 
