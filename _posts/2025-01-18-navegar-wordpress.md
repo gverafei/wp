@@ -20,24 +20,24 @@ permalink: navegar-wordpress
 
 ## Introducción
 
-El panel de administración de WordPress está diseñado para permitir una navegación eficiente utilizando el teclado, lo que lo hace accesible para usuarios ciegos que utilizan lectores de pantalla. A continuación, te explicamos cómo está organizado el panel y cómo desplazarte por sus elementos.
+El panel de administración de WordPress está diseñado para permitir una navegación básica utilizando el teclado, lo que lo hace accesible para usuarios de lectores de pantalla. A continuación, se explica cómo está organizado el panel y cómo desplazarte por sus elementos.
 
 ## Estructura del panel de administración
 
 WordPress organiza sus herramientas en dos áreas principales dentro de la administración:
 
-### Barra superior
+### Barra de herramientas
 
-La barra superior está disponible en todas las páginas del área de administración y ofrece accesos directos a funciones importantes, como:
+La barra de herramientas está disponible en todas las páginas del área de administración y tambien del área pública. Ofrece accesos directos a funciones importantes, como:
 
 - Crear nuevas entradas, páginas o usuarios.
 - Acceder al sitio público para visualizar los cambios realizados.
 - Revisar notificaciones sobre actualizaciones, comentarios o mensajes.
 - El último enlace es para para cerrar la sesión del usuario actual.
 
-### Barra lateral izquierda
+### Barra de navegación
 
-La barra lateral izquierda contiene el menú principal del área de administración, desde donde puedes acceder a todas las secciones importantes de WordPress. Estas incluyen:
+La barra de navegacio´n está disponible en todas las páginas y contiene el menú principal del área de administración, desde donde puedes acceder a todas las secciones importantes de WordPress. Estas incluyen:
 
 - **Escritorio:** Resumen general de la actividad reciente.
 - **Entradas:** Crear, editar y organizar publicaciones dinámicas.
