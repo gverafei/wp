@@ -22,7 +22,7 @@ layout: page
 - [Cómo navegar en WordPress usando el teclado](./navegar-wordpress) – 15 minutos  
 - [Ajustes básicos del sitio web](./ajustes-basicos) – 20 minutos  
 - [Usuarios](./usuarios) – 15 minutos  
-- [Shortcuts del editor clásico TinyMCE](./shortcuts-tinymce) – 20 minutos  
+- [Atajos de teclado del editor clásico TinyMCE](./shortcuts-tinymce) – 20 minutos  
 - [Cómo crear una página básica](./crear-pagina-basica) – 20 minutos  
 
 **Tarea práctica:**  

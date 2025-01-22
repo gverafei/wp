@@ -30,7 +30,7 @@ El panel de administración de WordPress está diseñado para ser accesible y fu
   - Abrir rápidamente el buscador de entradas o páginas para realizar ediciones.
 
 - **Editor clásico (TinyMCE):**
-  Este editor es más amigable para usuarios ciegos, ya que su diseño es menos visual y tiene compatibilidad nativa con shortcuts de teclado. Permite navegar y editar contenido de forma más eficiente.
+  Este editor es más amigable para usuarios ciegos, ya que su diseño es menos visual y tiene compatibilidad nativa con atajos del teclado de teclado. Permite navegar y editar contenido de forma más eficiente.
 
 ## Desafíos de accesibilidad
 

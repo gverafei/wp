@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shortcuts del editor clásico TinyMCE
+title: Atajos de teclado del editor clásico TinyMCE
 permalink: shortcuts-tinymce
 ---
 
