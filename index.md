@@ -5,8 +5,8 @@ layout: page
 
 ## Sitio web de prácticas del curso:
 
-- [URL de sitio web de prácticas](https://cursos.mexicocentral.cloudapp.azure.com/curso/){:target="_blank"}
-- [URL de sitio de administración web de prácticas](https://cursos.mexicocentral.cloudapp.azure.com/curso/wp-admin){:target="_blank"}
+- [URL de sitio web de prácticas](https://amorsinfronterasac.org/){:target="_blank"}
+- [URL de sitio de administración web de prácticas](https://amorsinfronterasac.org/wp-admin){:target="_blank"}
 
 ## En esta página:
 
