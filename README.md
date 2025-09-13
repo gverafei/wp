@@ -23,7 +23,8 @@ The repository is organized as follows:
 
 - `_includes/`: Contains supporting template files for the site built with Jekyll.  
 - `_posts/`: Contains all the posts that make up the site.  
-- `images/`: Contains the visual assets used in the posts.  
+- `images/`: Contains the visual assets used in the posts.
+- `correlation_analysis.ipynb`: Contains the correlation analysis in python.
 - `about.md`: File with the general description of the site.  
 - `index.md`: Main page of the training site.  
 
